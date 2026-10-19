@@ -4,7 +4,36 @@ const $$ = (q, root = document) => [...root.querySelectorAll(q)];
 const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const money = value => new Intl.NumberFormat('cs-CZ', {style:'currency',currency:'CZK',maximumFractionDigits:0}).format(value);
 const normalize = value => String(value).normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
-const icon = (name, className = "") => `<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" class="${className}"><use href="icons.svg?v=1.1.0#${name}"/></svg>`;
+// Directional icons use inline paths so mobile font and sprite caches cannot affect them.
+const directionalPaths = {
+  "arrow-up-right": [
+    "M6 18 18 6M7 6h11v11"
+  ],
+  "arrow-right": [
+    "M3.8 12h16.4m-6.5-6.5 6.5 6.5-6.5 6.5"
+  ],
+  "arrow-left": [
+    "M20.2 12H3.8m6.5-6.5L3.8 12l6.5 6.5"
+  ],
+  "arrow-down": [
+    "M12 3.8v16.4m6.5-6.5L12 20.2l-6.5-6.5"
+  ],
+  "chevron-down": [
+    "m5.5 8.8 6.5 6.4 6.5-6.4"
+  ],
+  "chevron-left": [
+    "m15.2 5.5-6.4 6.5 6.4 6.5"
+  ],
+  "chevron-right": [
+    "m8.8 5.5 6.4 6.5-6.4 6.5"
+  ]
+};
+const icon = (name, className = "") => {
+  const content = directionalPaths[name]
+    ? directionalPaths[name].map(d => `<path d="${d}"/>`).join('')
+    : `<use href="icons.svg?v=1.1.1#${name}"/>`;
+  return `<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" data-icon="${name}" class="${className}" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">${content}</svg>`;
+};
 const labels = {capsules:'Kapsle & tobolky',elixirs:'Bylinné elixíry',superfoods:'Superpotraviny',other:'Další péče'};
 const storage = {get(key, fallback){try{return JSON.parse(localStorage.getItem(key)) ?? fallback;}catch{return fallback;}},set(key,value){try{localStorage.setItem(key, JSON.stringify(value));}catch{/* The shop also works with session-only state. */}}};
 let products = [], filter = 'all', visibleCount = 8, detailQty = 1, detailId = null, toastTimer;
