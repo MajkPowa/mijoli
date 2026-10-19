@@ -1,0 +1,10 @@
+Use case: product-mockup
+Asset type: Portrait photographic mobile e-commerce hero, 1024x1536, designed to be cropped into a 350 by 520 pixel card.
+Primary request: Luxurious photorealistic product portrait of ONE clear unbranded glass jar filled with olive green herbal capsules, ivory ribbed screw lid, resting on lush forest moss with a few delicate fern leaves.
+Scene/backdrop: Fresh botanical studio scene, warm white and very pale olive seamless background, tactile moss in the lower portion.
+Subject: One jar only, full jar including lid and base completely visible, placed in the lower-right of the portrait occupying the lower 55 percent. Capsules look real and naturally matte olive green. Clear thick glass with subtle natural highlights.
+Composition/framing: Portrait 2:3 image. Top 45 percent must remain uncluttered, softly illuminated very pale olive / warm cream negative space for website dark text. Jar body roughly 55 percent of image width, left edge near 35 percent image width, its top near 43 percent image height, base near 93 percent. Camera slightly below lid level, premium editorial product photography. Subtle blurred botanical shapes at very bottom and edges only.
+Lighting/mood: Soft directional morning sunlight from upper-left, realistic delicate leaf shadows, calm sophisticated fresh botanical feeling.
+Color palette: Fresh olive #c7ce8c, warm cream white, deep moss, ivory.
+Materials/textures: Crisp ribbed ivory plastic cap, premium clear glass, natural capsules, tactile moss and tiny fern fronds.
+Constraints: No text, words, letters, logos, labels, branding, watermarks, UI elements or mock phone. Do not add extra jars. No text printed anywhere. Do not crop jar. Do not crowd the top half. Photorealistic image, not illustration.

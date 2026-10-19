@@ -19,3 +19,9 @@ Then open http://localhost:4173/.
 Push changes to `main`. GitHub Actions checks the JavaScript and publishes `dist/` to GitHub Pages. No build step or package installation is required.
 
 The repository contains only the website and its publishing configuration. Botanical campaign photographs were created with ImageGen. Product photographs and catalog content describe the source store's products; the generated campaign photography does not represent a specific product package.
+
+## Mobile experience
+
+Version 1.1 adds a portrait hero, native swipeable product gallery with a grid alternative, thumb-friendly bottom navigation, category/availability/sort filters, and full-height product details with a fixed purchase bar. Modal navigation preserves search context and keyboard focus. Inputs use 16px text, controls account for safe areas, and motion respects reduced-motion preferences.
+
+All 35 SVG icons are original Mijoli artwork. The shared sprite is `dist/icons.svg`; the [icon gallery](https://majkpowa.github.io/mijoli/iconography.html) shows every symbol at multiple sizes.
