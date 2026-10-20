@@ -1,0 +1,41 @@
+hero-wide.png
+Use case: ads-marketing
+Asset type: photographic website campaign visual, landscape 1536x1024.
+Primary request: sophisticated editorial still life for Mijoli botanical wellness, a quiet laboratory meets nature feeling in a real bright home.
+Scene/backdrop: airy white curtains and soft bright window behind, warm pale oak table in foreground.
+Subject: three unbranded frosted and smoky forest-green glass supplement jars with charcoal lids, subtle natural capsules visible through translucent glass, no labels.
+Composition/framing: landscape, full vessels visible clustered in the bottom and right half. Leave the left 40 percent bright warm off-white empty negative space. Natural photography, not a webpage or packaging mockup.
+Lighting/mood: true soft natural daylight, calm, understated, premium editorial.
+Materials/textures: beautiful glass refraction, fine oak grain, delicate curtain folds, honest subtle shadows.
+Constraints: no words, labels, logos, watermarks, user interface, overt moss or ferns, gradients or artificial glow. This is a campaign image, not a specific actual product.
+
+hero-portrait.png
+Use case: ads-marketing
+Asset type: photographic mobile website campaign visual, portrait 1024x1536.
+Primary request: sophisticated editorial still life for Mijoli botanical wellness, quiet laboratory meets nature feeling in a bright real home.
+Scene/backdrop: airy white curtains with diffuse bright window behind, warm pale oak table in the lower half.
+Subject: two or three unbranded frosted and smoky forest-green glass supplement jars with charcoal lids. Subtle natural capsules visible through the glass.
+Composition/framing: portrait. The top 43 percent is bright warm off-white empty negative space. Two or three jars are in the lower half towards right, full vessels visible, room around them and a little tabletop foreground.
+Lighting/mood: soft natural morning daylight, serene, premium editorial photo.
+Materials/textures: beautiful glass refraction, fine oak grain, real curtain folds.
+Constraints: no text, labels, logos, watermarks, user interface, overt moss or ferns, gradients or artificial glow. A campaign photograph, not a specific actual product.
+
+ingredient-macro.png
+Use case: photorealistic-natural
+Asset type: square photographic ingredient campaign visual, 1024x1024.
+Primary request: extraordinary tactile macro photograph of translucent dark green leaf vein tissue with one water droplet, viewed under glass against a deep forest green background.
+Subject: detailed almost scientific organic cellular structure, tiny intricate branching veins and very fine green tissue. The droplet is naturally attached to the tissue and refracts its pattern.
+Composition/framing: immersive extreme macro, abstract organic leaf fills the frame, shallow real photographic depth of field, substantial areas of richly dark forest green.
+Lighting/mood: natural transmitted light through leaf and glass, warm green glass highlights, sophisticated and calm.
+Color palette: dominant forest green #1c3a13, deep moss and muted warm green highlights.
+Constraints: true photo, no words, logos, watermarks, interface, diagrams, laboratory claims, synthetic neon or artificial glow.
+
+daily-ritual.png
+Use case: photorealistic-natural
+Asset type: landscape editorial campaign photograph, 1536x1024.
+Primary request: calm human everyday wellness ritual in an airy real home.
+Scene/backdrop: white curtains behind, cream tabletop, soft morning window light.
+Subject: close crop of a person's natural hands gently holding a simple clear drinking glass of water, one small unbranded frosted forest-green glass capsule jar with dark charcoal lid on the table in foreground. No labels.
+Composition/framing: editorial close crop, hands and glass form the main focus towards center-right, intimate human scale, coherent tabletop, only hands and part of a soft cream sleeve visible.
+Lighting/mood: quiet beautiful natural morning light, warm realistic skin texture, sage and forest accents.
+Constraints: photographic, premium understated, no words, logos, watermarks, UI, faces, artificial glow, excessive foliage. Campaign scene, not a specific actual product.
