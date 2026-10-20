@@ -1,0 +1,699 @@
+{
+  "version": "2.1.0",
+  "date": "2026-10-20",
+  "tool": "built-in image_gen",
+  "catalogImageCount": 46,
+  "additionalImageCount": 2,
+  "artDirection": "Square 1:1 editorial photographs of the original actual packages; warm light stone, soft natural light, grounded shadows; no package redesign.",
+  "sourceConfirmations": [
+    {
+      "id": 78,
+      "page": "https://www.whiteelephant.cz/produkty/elixiry/omega-3.html",
+      "note": "Manufacturer Omega 3 page uses Omega Senior packaging."
+    },
+    {
+      "id": 84,
+      "page": "https://www.whiteelephant.cz/produkty/elixiry/vitamin-c.html",
+      "note": "Manufacturer Vitamin C extra page uses Senior Cecko packaging."
+    },
+    {
+      "id": 105,
+      "page": "https://www.whiteelephant.cz/produkty/elixiry/glukonormal.html",
+      "note": "Manufacturer describes GlukoNormal as Superprent and Prostabil pair."
+    }
+  ],
+  "assets": [
+    {
+      "id": 129,
+      "name": "Imunita",
+      "catalog": true,
+      "input": "dist/assets/products/129.webp",
+      "prompt": "Use case: precise-object-edit.\nInput image 1 is the EDIT TARGET product photo, not a style reference.\nCreate a square 1:1 1024x1024 premium botanical ecommerce thumbnail of EXACTLY this actual package. Preserve aggressively the ORIGINAL package shape, material, dark bottle, ribbed black cap, proportions, ORIGINAL brand \"White Elephant / Bílý slon / Biely slon\", label artwork, blue colors, woman/botanical/waterfall illustration and product name \"IMUNITA\". The package must remain the same physical item with original typography and label artwork, never redesign or rebrand it.\nChange only background, framing, and light. Warm offwhite/light-stone #eeeee9 seamless matte tabletop and wall. Soft natural daylight from upper left, natural soft contact shadow grounding product, extremely faint defocused botanical shadow on background only; no botanical props. Dominant object occupies 76–84% canvas HEIGHT with 8–12% comfortable clear margins, full cap/base visible, near-eye-level front view with extremely slight three-quarter depth, neutral accurate label colors and crisp readable label. Slight natural asymmetry. Modern calm editorial thumbnail photograph fitting a forest-green and offwhite ecommerce design.\nNo extra text, new logos, props, pedestals, watermarks, invented packaging, cropping of product or excessive empty space.",
+      "generationSourceFile": "exec-b5ce2a9b-087f-410f-9fca-e26788b3f829.png",
+      "finalPng": "dist/assets/products-editorial/129.png",
+      "finalWebp": "dist/assets/products-editorial/129.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Hubnutí",
+      "catalog": true,
+      "input": "dist/assets/products/69.webp",
+      "prompt": "Use case: precise-object-edit. Image1 is EDIT TARGET. Produce square 1:1 premium botanical ecommerce thumbnail, exact same actual dark amber bottle and black ribbed cap. Preserve original White Elephant / Bílý slon brand, vivid green label with gold ornaments and two white elephants, product name \"HUBNUTÍ\", every layout/artwork/color and package proportions. Never redesign/rebrand packaging.\nChange only background, framing, lighting: seamless matte warm offwhite/light stone #eeeee9 tabletop/wall, soft daylight from upper left, soft natural contact shadow, extremely faint defocused botanical shadow only on background, no props. Product occupies 76–84% canvas height, full cap and base visible, 8–12% comfortable edges, near eye-level front with very slight threequarter depth and natural asymmetry. Original neutral label colors, sharp readable label. Calm polished editorial photo for forest-green/offwhite website. No additional text/logos, new packaging, pedestals, cropped package or excess negative space. Square 1024x1024.",
+      "generationSourceFile": "exec-822f13ee-bc64-4800-9354-4629ff87e27e.png",
+      "finalPng": "dist/assets/products-editorial/69.png",
+      "finalWebp": "dist/assets/products-editorial/69.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Cholesterol",
+      "catalog": true,
+      "input": "dist/assets/products/75.webp",
+      "prompt": "Use case: precise-object-edit. Image 1 is the EDIT TARGET product photo. Create square 1:1 1024x1024 premium botanical ecommerce thumbnail of EXACTLY this actual dark amber capsule bottle and ribbed black cap. Aggressively preserve original physical shape/material/proportions, label colors/artwork, White Elephant / Bílý slon brand and product name \"CHOLESTEROL\". The original label shows an older white-bearded man's profile, tree and white ornamental elephant-head over landscape with moon; preserve the same original graphic and original typography. Do not redesign or rebrand.\nChange ONLY backdrop/framing/lighting to warm offwhite/light-stone #eeeee9 seamless matte tabletop and wall, soft daylight from upper left, natural soft contact shadow under bottle, extremely faint out-of-focus botanical shadow on background only, no props. Product dominates 76–84% canvas HEIGHT, full cap/base visible with comfortable 8–12% edges. Near eye-level front with very slight three-quarter depth and natural asymmetry, neutral accurate colors and sharp readable label. Calm modern editorial product photograph. No extra text/logos, invented package, crop or excessive negative space.",
+      "generationSourceFile": "exec-5fc29333-d3e4-4939-aa76-f051526ecbd4.png",
+      "finalPng": "dist/assets/products-editorial/75.png",
+      "finalWebp": "dist/assets/products-editorial/75.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Detoxikace",
+      "catalog": true,
+      "input": "dist/assets/products/96.webp",
+      "prompt": "Use case: precise-object-edit. Input image 1 EDIT TARGET. Square 1:1 1024x1024 premium botanical ecommerce photograph of EXACTLY this actual tall slender dark glass 500 ml elixir bottle with long narrow neck and black seal/cap. Preserve package proportions, material, original White Elephant / Bílý slon branding, original dark illustrated label featuring old bearded man/tree/ornamental white elephant/landscape/moon, and product name \"DETOXIKACE\". Aggressively keep original label layout/artwork/colors/typography, never redesign or rebrand. Do not turn the slender elixir into a wide capsule jar.\nReplace only white background/framing/lighting with seamless matte warm offwhite/light-stone #eeeee9 tabletop and wall, soft natural daylight upper left, natural soft contact shadow under full bottle, restrained extremely faint defocused botanical shadow on background only. No props. Full product cap and base visible, dominant 76–84% canvas height, comfortable 8–12% top/bottom margin. Near eye-level front with extremely slight threequarter depth, natural asymmetry, original neutral label colors and readable sharp label. No text additions, new logos, props, package crop or excessive whitespace. Calm modern polished editorial thumbnail photograph.",
+      "generationSourceFile": "exec-3c20e9a7-d122-4a27-8cb1-492f7fe62234.png",
+      "finalPng": "dist/assets/products-editorial/96.png",
+      "finalWebp": "dist/assets/products-editorial/96.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 48,
+      "name": "ADAPTOGAP",
+      "catalog": true,
+      "input": "dist/assets/products/48.webp",
+      "prompt": "Use case: precise-object-edit. Input image 1 is EDIT TARGET. Create square 1:1 1024x1024 premium botanical ecommerce thumbnail of EXACTLY this actual cylindrical silver metal can with flat round silver lid and ORIGINAL green/turquoise/blue wrap label. Aggressively preserve the physical metal can, proportions, original White Elephant branding, very large product name \"ADAPTOGAP\", original leaf/ornamental graphics, logo and all original label typography/colors. Keep original small Czech label lettering as artwork. Never redesign/rebrand or convert into bottle.\nChange ONLY backdrop, framing and lighting: seamless matte warm offwhite/light stone #eeeee9 tabletop/wall, soft natural daylight upper left, soft contact shadow grounding can, extremely faint defocused botanical shadow in background only. No props. Full package/lid/base visible, dominant 76–84% of square canvas HEIGHT with 8–12% margins. Near eye-level front with slight top visibility/very slight threequarter depth, natural asymmetry. Neutral colors and sharp readable label. Calm modern editorial photograph for forestgreen/offwhite ecommerce. No additional text, logos, cropping, new packaging, pedestal or excessive blankspace.",
+      "generationSourceFile": "exec-a2b7eaf2-bea8-402d-b3e2-c6a1ca1b2469.png",
+      "finalPng": "dist/assets/products-editorial/48.png",
+      "finalWebp": "dist/assets/products-editorial/48.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Beauty of Cleopatra",
+      "catalog": true,
+      "input": "dist/assets/products/54.webp",
+      "prompt": "Use case: precise-object-edit. Image1 is EDIT TARGET. Create a square 1:1 1024x1024 premium ecommerce thumbnail of EXACTLY this actual triangular/pyramidal cosmetic package \"BEAUTY OF CLEOPATRA\". Aggressively preserve the same physical triangular shape and package proportions, light pink marble print, black triangle frontpanel, gold Cleopatraface, white elephant graphics, teal flowers, golden circular \"GOLD 24 carats\" seal and golden original product lettering. Keep original artwork/color/material/typography, no redesign or rebrand. This product is a triangular box, NOT a bottle/jar.\nChange ONLY background/framing/lighting. Seamless matte warm offwhite/light stone #eeeee9 tabletop/wall, soft natural daylight upper left, natural soft contact shadow grounding package, extremely faint defocused botanical shadow background only. No props. Whole triangle tip, sides/base visible with comfortable 8–12% edge clearance. Dominant package 76–84% canvas height; because triangle broad, ensure both lower corners fit. Near-eye-level front very slight threequarter depth and natural asymmetry, neutral sharp original label. Calm polished editorial botanical product photo. No extra text/newlogos, additional package, cropping, pedestal or large empty box.",
+      "generationSourceFile": "exec-bc8d61e9-119b-4862-ad6c-e05417cf5cd4.png",
+      "finalPng": "dist/assets/products-editorial/54.png",
+      "finalWebp": "dist/assets/products-editorial/54.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 114,
+      "name": "BezMigraan",
+      "catalog": true,
+      "input": "dist/assets/products/114.webp",
+      "prompt": "Use case: precise-object-edit. Image 1 is EDIT TARGET product. Square 1:1 1024x1024 premium botanical ecommerce thumbnail of EXACT same dark brown capsule bottle with black ribbed screw cap. Aggressively preserve package physical shape/material/proportions, original White Elephant / Bílý slon brand, product lettering \"BEZMIGRAAN\", dark original label featuring woman'sprofile, flowers, ornamental white elephant head over landscape/waterfall with red/blue/green accents. Keep original actual label artwork, colors, typography/layout and cap; no redesign or rebrand.\nChange ONLY white background, framing and lighting. Seamless matte warm offwhite/light stone #eeeee9 tabletop/wall, soft daylight upper left, soft natural contact shadow grounding full bottle, extremely faint defocused botanical shadow backgroundonly. No props. Dominant 76–84% canvas height, whole cap/base visible with comfortable 8–12% margins, near eye-level front with extremely slight threequarter depth and natural asymmetry. Neutral accurate original colors, crisp readable label. Calm modern polished editorial thumbnail. No newlogos, extra text, packaging invented, crop, pedestal or excessive emptyspace.",
+      "generationSourceFile": "exec-20212e13-1d79-440f-b646-2fa11a968bb0.png",
+      "finalPng": "dist/assets/products-editorial/114.png",
+      "finalWebp": "dist/assets/products-editorial/114.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Klouby - elixír",
+      "catalog": true,
+      "input": "dist/assets/products/90.webp",
+      "prompt": "Use case: precise-object-edit. Image 1 EDIT TARGET. Square 1:1 1024x1024 premium botanical ecommerce thumbnail of exactly this actual tall slender dark glass 500ml elixir bottle, long narrow neck and black sealed cap. Aggressively preserve bottle shape/material/proportions and original White Elephant / Bílý slon label with old whitebearded man'sprofile, tree/white ornamental elephanthead/landscape/moon graphics, green textarea and product name \"ZDRAVÉ KLOUBY\" two lines. Preserve all original label artwork/colors/typography/layout. Never redesign/rebrand or convert slender bottle into capsulejar.\nChange only backdrop/framing/lighting to seamless matte warm offwhite/light stone #eeeee9 tabletop/wall, soft natural daylight upperleft, natural soft contact shadow grounding bottle, extremely faint out-of-focus botanical shadow backgroundonly. No props. Full cap/base visible, product 76–84% canvasheight with comfortable 8–12% top/bottom edges. Near eye-level front extremely slight threequarter depth, natural asymmetry. Sharp readable label original neutral colors. Calm polished editorial thumbnail. No extra text/logos, invented package, cropping, pedestal or excessive emptyspace.",
+      "generationSourceFile": "exec-9e3f2ed7-cedb-4785-b13c-7d79cfa02bc0.png",
+      "finalPng": "dist/assets/products-editorial/90.png",
+      "finalWebp": "dist/assets/products-editorial/90.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Klouby - tobolky",
+      "catalog": true,
+      "input": "dist/assets/products/63.webp",
+      "prompt": "Use case: precise-object-edit. Image 1 EDIT TARGET. Create square 1:1 1024x1024 premium botanical ecommerce product photograph of exactly this dark brown capsule bottle with original black ribbed cap. Aggressively preserve package shape/material/proportions and ORIGINAL deep green/gold label. Verbatim original brand \"White Elephant\", \"Bílý slon\", top gold strip \"NOVÁ RECEPTURA\", middle \"FORTE\" and product \"KLOUBY\". Preserve original two white elephants facing inward, gold lotus/ornament artwork and typography/colors/layout, never redesign/rebrand.\nChange ONLY backdrop/framing/lighting to seamless matte warm offwhite/light stone #eeeee9 tabletop and wall, soft natural daylight upperleft, soft natural contact shadow grounding bottle, extremely faint defocused botanical shadow in backgroundonly; no props. Full package cap/base visible, dominant 76–84% canvasheight with comfortable 8–12% edgeclearance. Near eye-level front with extremely slight threequarter depth, natural asymmetry, original neutral label colors and sharp readable lettering. Calm modern polished editorial thumbnail. No extra text/logos, newpackage, cropping, pedestal or huge empty box.",
+      "generationSourceFile": "exec-bdfc6f65-948b-494d-a286-3d232a85812c.png",
+      "finalPng": "dist/assets/products-editorial/63.png",
+      "finalWebp": "dist/assets/products-editorial/63.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Král",
+      "catalog": true,
+      "input": "dist/assets/products/72.webp",
+      "prompt": "Use case: precise-object-edit. Image 1 EDIT TARGET. Create square 1:1 1024x1024 premium botanical ecommerce thumbnail of EXACT same actual dark brown capsule bottle, black ribbed cap and original white wrap label. Aggressively preserve physical package shape/material/proportions and original White Elephant / Bílý slon branding; product text \"KRÁL\", \"ŽIVOTABUDIČ\". Preserve original illustrated frontal elephant amid flower garden with temples, light sunrise orange background and original typography/artwork/layout/colors. No redesign/rebrand.\nChange ONLY backdrop, framing and lighting to seamless matte warm offwhite/light stone #eeeee9 tabletop/wall, soft natural daylight upperleft, soft natural contact shadow grounding bottle, extremely faint defocused botanical shadow in backgroundonly, no props. Fullcap/base visible, dominant76–84% canvasheight with comfortable8–12% edges. Near eye-level front extremely slight threequarter depth, natural asymmetry, neutral accurate labelcolors, sharp readable label. Calm polished modern editorial photograph. No extra text/logos, invented package, cropping, pedestal or too much whitespace.",
+      "generationSourceFile": "exec-084c2322-51ad-4079-8997-b5b6a12e0974.png",
+      "finalPng": "dist/assets/products-editorial/72.png",
+      "finalWebp": "dist/assets/products-editorial/72.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 99,
+      "name": "Močové cesty - elixír",
+      "catalog": true,
+      "input": "dist/assets/products/99.webp",
+      "prompt": "Use case: precise-object-edit. Image 1 EDIT TARGET. Square 1:1 1024x1024 premium botanical ecommerce photograph of EXACT same tall slender dark glass 500ml elixir bottle, long narrow neck with black sealed cap. Aggressively preserve physical package shape/material/proportions and ORIGINAL White Elephant / Bílý slon branding, illustrated dark label with woman'sprofile, flowers, ornamental white elephanthead over blue/green landscape/waterfall, and product name \"MOČOVÉ CESTY\" two lines. Preserve original artwork/colors/typography/layout, no redesign/rebrand. Do not make this slender elixir into wide capsulejar.\nChange ONLY white backdrop/framing/lighting: seamless matte warm offwhite/light stone #eeeee9 tabletop/wall, soft daylight upperleft, natural soft contact shadow under bottle, extremely faint defocused botanical shadow in backgroundonly. No props. Full cap/base visible, product76–84% canvasheight, comfortable8–12% topbottom margins. Near eye-level front with extremely slight threequarter depth and natural asymmetry. Sharp readable label, neutral original colors. Calm modern editorial thumbnail. No addedtext/logos/newpackage/cropping/pedestals/excesswhitespace.",
+      "generationSourceFile": "exec-807f7e21-0cb6-42cf-965b-9b0d7862136f.png",
+      "finalPng": "dist/assets/products-editorial/99.png",
+      "finalWebp": "dist/assets/products-editorial/99.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Omega 3",
+      "catalog": true,
+      "input": "dist/assets/products/78.webp",
+      "prompt": "Use case: precise-object-edit. Image 1 EDIT TARGET. Square 1:1 1024x1024 premium botanical ecommerce thumbnail of EXACT same actual dark capsule bottle with ribbed black cap. Aggressively preserve physical package shape/material/proportions, original white wraplabel, small pale green \"White Elephant\" brand, large bluegreen original \"Omega\" lettering and gold \"SENIOR\" lettering. This is the ACTUAL Omega3 product's original OmegaSenior package, do not change product lettering into3. Preserve original pink/red coral and green seaweed graphic artwork, original colors, layout and typography. Never redesign or rebrand packaging.\nChange ONLY background/framing/lighting: seamless matte warm offwhite/light stone #eeeee9 tabletop andwall, soft natural daylight upperleft, natural soft contact shadow grounding bottle, extremely faint defocused botanical shadow backgroundonly. No props. Fullcap/base visible, dominant76–84% canvasheight with comfortable8–12% margins. Near eye-level front with extremely slight threequarter depth and natural asymmetry. Original accurate neutral colors, crisp readable label. Calm modern polished editorial thumbnail. No extra text/newlogos/imaginedpackage/crop/pedestal/excessblankspace.",
+      "generationSourceFile": "exec-29d1799d-31cc-40b3-831b-d21e927d4651.png",
+      "finalPng": "dist/assets/products-editorial/78.png",
+      "finalWebp": "dist/assets/products-editorial/78.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Prostata - elixír",
+      "catalog": true,
+      "input": "dist/assets/products/102.webp",
+      "prompt": "Use case: precise-object-edit. Image 1 EDIT TARGET. Square 1:1 1024x1024 premium botanical ecommerce photograph of EXACT same actual tall slender dark glass 500ml elixir bottle with long narrow neck and black sealed cap. Aggressively preserve original shape/material/proportions, White Elephant / Bílý slon branding, original dark illustrated label of whitebearded old man/tree/white ornamental elephanthead/landscape/moon, blue productarea and original product name \"PROSTATA\". Preserve original artwork/colors/typography/layout. Never redesign/rebrand or change slender elixir into wide capsulejar.\nChange ONLY white backdrop, framing and lighting: seamless matte warm offwhite/light stone #eeeee9 tabletop/wall, soft natural daylight upperleft, natural soft contact shadow under bottle, extremely faint defocused botanical shadow backgroundonly. No props. Product76–84% canvasheight with comfortable8–12% top/bottom clearance, wholecap/base visible. Near eye-level front extremely slight threequarter depth and natural asymmetry. Neutral accurate original colors, crisp readable label. Calm modern polished editorial thumbnail. No extra text/newlogos/invented packaging/crop/pedestal/excesswhitespace.",
+      "generationSourceFile": "exec-98e47201-f224-430e-b12d-6cd0eab3c1dc.png",
+      "finalPng": "dist/assets/products-editorial/102.png",
+      "finalWebp": "dist/assets/products-editorial/102.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Prostata - tobolky",
+      "catalog": true,
+      "input": "dist/assets/products/66.webp",
+      "prompt": "Use case: precise-object-edit. Image 1 EDIT TARGET. Create square 1:1 1024x1024 premium botanical ecommerce thumbnail of EXACT same actual dark capsule bottle and original black ribbed screw cap. Aggressively preserve physical shape/material/proportions and ORIGINAL purple/violet label, White Elephant / Bílý slon brand, product name \"PROSTATA\", two white elephants facing inward with gold lotus and ornate gold floral decoration. Preserve original label colors/artwork/layout/typography, never redesign/rebrand or swap label from other product.\nChange ONLY background/framing/lighting: seamless matte warm offwhite/light stone #eeeee9 tabletop/wall, soft natural daylight upperleft, soft natural contact shadow grounding bottle, extremely faint defocused botanical shadow backgroundonly; no props. Fullcap/base visible, dominant76–84% canvasheight, comfortable8–12% edges. Near eye-level front with very slight threequarter depth and natural asymmetry. Neutral accurate label colors and crisp readable original lettering. Calm modern polished editorial thumbnail. No additional text/newlogos/inventedpackage/crop/pedestal/excesswhitespace.",
+      "generationSourceFile": "exec-c7f30ac7-00b2-4073-bb53-5aa84e2ae72a.png",
+      "finalPng": "dist/assets/products-editorial/66.png",
+      "finalWebp": "dist/assets/products-editorial/66.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Srdce a cévy - elixír",
+      "catalog": true,
+      "input": "dist/assets/products/87.webp",
+      "prompt": "Use case: precise-object-edit. Image 1 EDIT TARGET. Square 1:1 1024x1024 premium botanical ecommerce photograph of EXACT same actual tall slender dark glass 500ml elixir bottle with long narrow neck and black sealedcap. Aggressively preserve package shape/material/proportions and ORIGINAL White Elephant / Bílý slon branding, original dark illustrated label featuring whitebearded man'sprofile/tree/white ornamental elephanthead/landscape/moon, muted reddish productarea and original product name \"SRDCE a CÉVY\". Preserve original actual label artwork/colors/typography/layout. Never redesign/rebrand or change slender elixir into wide capsulejar.\nChange ONLY white backdrop/framing/lighting to seamless matte warm offwhite/light stone #eeeee9 tabletop/wall, soft natural daylight upperleft, natural soft contact shadow grounding bottle, extremely faint out-of-focus botanical shadow on backgroundonly; no props. Fullcap/base visible, dominant76–84% canvasheight with comfortable8–12% margins. Near eye-level front with extremely slight threequarterdepth and natural asymmetry. Neutral original colors and crisp readable label. Calm modern editorial thumbnail. No extra text/newlogos/inventedpackage/crop/pedestal/excess whitespace.",
+      "generationSourceFile": "exec-5b1466e0-6328-4d10-b027-324d4a046fdf.png",
+      "finalPng": "dist/assets/products-editorial/87.png",
+      "finalWebp": "dist/assets/products-editorial/87.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Srdce a cévy - tobolky",
+      "catalog": true,
+      "input": "dist/assets/products/60.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Image 1 is the EDIT TARGET, the actual product photograph. Edit the photograph into a square 1024x1024 composition; preserve the SAME ACTUAL package(s) exactly: original brand and all label artwork/colors, product name, cap, bottle shape, material and proportions. Do not redesign, simplify, translate, or replace the packaging. Change ONLY the white background, framing and lighting. Warm offwhite/light-stone #eeeee9 seamless matte tabletop and wall, soft daylight from upper left, natural soft contact shadow grounding the product, extremely restrained faint out-of-focus botanical shadow in background only. No props, no additional products, no new logos, no extra text. Object dominant at 76–84% canvas height, full cap and base visible, comfortable 8–12% edge margins. Near eye-level front view with only very slight threequarter depth, neutral true product colors, sharp readable labels. Slight natural asymmetry. Not a small object floating in huge empty space. Preserve every package in paired product photos, no cropping. Square product editorial photograph, photoreal. Product identity: White Elephant Bílý slon FORTE SRDCE A CÉVY, black ribbed lid, dark bottle, red/burgundy and gold label with two white elephants and gold NOVÁ RECEPTURA band. All those elements must remain exact.",
+      "generationSourceFile": "exec-10b37444-2f49-45aa-9fb2-b404fdd9a396.png",
+      "finalPng": "dist/assets/products-editorial/60.png",
+      "finalWebp": "dist/assets/products-editorial/60.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 45,
+      "name": "TELOMWAY",
+      "catalog": true,
+      "input": "dist/assets/products/45.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Image 1 is the EDIT TARGET, the actual product photograph. Edit the photograph into a square 1024x1024 composition; preserve the SAME ACTUAL package(s) exactly: original brand and all label artwork/colors, product name, cap, bottle shape, material and proportions. Do not redesign, simplify, translate, or replace the packaging. Change ONLY the white background, framing and lighting. Warm offwhite/light-stone #eeeee9 seamless matte tabletop and wall, soft daylight from upper left, natural soft contact shadow grounding the product, extremely restrained faint out-of-focus botanical shadow in background only. No props, no additional products, no new logos, no extra text. Object dominant at 76–84% canvas height, full cap and base visible, comfortable 8–12% edge margins. Near eye-level front view with only very slight threequarter depth, neutral true product colors, sharp readable labels. Slight natural asymmetry. Not a small object floating in huge empty space. Preserve every package in paired product photos, no cropping. Square product editorial photograph, photoreal. Product identity: White Elephant TELOMWAY cylindrical silver metal tin, broad silver round lid, rich purple/violet and fuchsia label, exact large white TELOMWAY lettering, golden chromosome mark and Czech text from reference. Preserve this exact metal tin and artwork.",
+      "generationSourceFile": "exec-14a295b3-ae8a-4e2e-9ad1-9617b46b97d2.png",
+      "finalPng": "dist/assets/products-editorial/45.png",
+      "finalWebp": "dist/assets/products-editorial/45.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 57,
+      "name": "TopEnzym",
+      "catalog": true,
+      "input": "dist/assets/products/57.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Image 1 is the EDIT TARGET, the actual product photograph. Edit the photograph into a square 1024x1024 composition; preserve the SAME ACTUAL package(s) exactly: original brand and all label artwork/colors, product name, cap, bottle shape, material and proportions. Do not redesign, simplify, translate, or replace the packaging. Change ONLY the white background, framing and lighting. Warm offwhite/light-stone #eeeee9 seamless matte tabletop and wall, soft daylight from upper left, natural soft contact shadow grounding the product, extremely restrained faint out-of-focus botanical shadow in background only. No props, no additional products, no new logos, no extra text. Object dominant at 76–84% canvas height, full cap and base visible, comfortable 8–12% edge margins. Near eye-level front view with only very slight threequarter depth, neutral true product colors, sharp readable labels. Slight natural asymmetry. Not a small object floating in huge empty space. Preserve every package in paired product photos, no cropping. Square product editorial photograph, photoreal. Product identity: White Elephant TOPENZYM cylindrical silver metal tin and silver lid, dark blue label, detailed illustrated woman in left profile with blue mountainous landscape, white ornate elephant head centered, white TOPENZYM lettering at label bottom. Preserve exact tin and intricate label artwork.",
+      "generationSourceFile": "exec-74c25541-5133-4f18-a299-040cfd284145.png",
+      "finalPng": "dist/assets/products-editorial/57.png",
+      "finalWebp": "dist/assets/products-editorial/57.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Vitamin C Extra (SENIOR CÉČKO package)",
+      "catalog": true,
+      "input": "dist/assets/products/84.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Image 1 is the EDIT TARGET, the actual product photograph. Edit the photograph into a square 1024x1024 composition; preserve the SAME ACTUAL package(s) exactly: original brand and all label artwork/colors, product name, cap, bottle shape, material and proportions. Do not redesign, simplify, translate, or replace the packaging. Change ONLY the white background, framing and lighting. Warm offwhite/light-stone #eeeee9 seamless matte tabletop and wall, soft daylight from upper left, natural soft contact shadow grounding the product, extremely restrained faint out-of-focus botanical shadow in background only. No props, no additional products, no new logos, no extra text. Object dominant at 76–84% canvas height, full cap and base visible, comfortable 8–12% edge margins. Near eye-level front view with only very slight threequarter depth, neutral true product colors, sharp readable labels. Slight natural asymmetry. Not a small object floating in huge empty space. Preserve every package in paired product photos, no cropping. Square product editorial photograph, photoreal. Product identity: White Elephant Vitamin C Extra sold in original SENIOR CÉČKO packaging exactly as edit target. Brown bottle, black ribbed cap, white label with huge botanical red/orange letter C, gold SENIOR CÉČKO inside C, gray White Elephant brand above, watercolor rosehip and green leaves around left. Never change the actual label to Vitamin C Extra.",
+      "generationSourceFile": "exec-1e506c13-4d07-4a42-8a45-621cffb659b3.png",
+      "finalPng": "dist/assets/products-editorial/84.png",
+      "finalWebp": "dist/assets/products-editorial/84.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Vitamin D3 K2",
+      "catalog": true,
+      "input": "dist/assets/products/81.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Image 1 is the EDIT TARGET, the actual product photograph. Edit the photograph into a square 1024x1024 composition; preserve the SAME ACTUAL package(s) exactly: original brand and all label artwork/colors, product name, cap, bottle shape, material and proportions. Do not redesign, simplify, translate, or replace the packaging. Change ONLY the white background, framing and lighting. Warm offwhite/light-stone #eeeee9 seamless matte tabletop and wall, soft daylight from upper left, natural soft contact shadow grounding the product, extremely restrained faint out-of-focus botanical shadow in background only. No props, no additional products, no new logos, no extra text. Object dominant at 76–84% canvas height, full cap and base visible, comfortable 8–12% edge margins. Near eye-level front view with only very slight threequarter depth, neutral true product colors, sharp readable labels. Slight natural asymmetry. Not a small object floating in huge empty space. Preserve every package in paired product photos, no cropping. Square product editorial photograph, photoreal. Product identity: White Elephant Vitamin D3 K2 dark bottle and black ribbed lid, white label with huge deep dark green DK typography, gold small 3 below D, watercolor pink flower at left and botanical green leaves with gold strokes, gold White Elephant brand top. Keep exact label art and typography.",
+      "generationSourceFile": "exec-10934907-285d-4dda-9385-75b1cc8eff11.png",
+      "finalPng": "dist/assets/products-editorial/81.png",
+      "finalWebp": "dist/assets/products-editorial/81.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Život",
+      "catalog": true,
+      "input": "dist/assets/products/51.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Image 1 is the EDIT TARGET, the actual product photograph. Edit the photograph into a square 1024x1024 composition; preserve the SAME ACTUAL package(s) exactly: original brand and all label artwork/colors, product name, cap, bottle shape, material and proportions. Do not redesign, simplify, translate, or replace the packaging. Change ONLY the white background, framing and lighting. Warm offwhite/light-stone #eeeee9 seamless matte tabletop and wall, soft daylight from upper left, natural soft contact shadow grounding the product, extremely restrained faint out-of-focus botanical shadow in background only. No props, no additional products, no new logos, no extra text. Object dominant at 76–84% canvas height, full cap and base visible, comfortable 8–12% edge margins. Near eye-level front view with only very slight threequarter depth, neutral true product colors, sharp readable labels. Slight natural asymmetry. Not a small object floating in huge empty space. Preserve every package in paired product photos, no cropping. Square product editorial photograph, photoreal. Product identity: White Elephant Bílý slon Biely slon ŽIVOT black bottle with black ribbed lid, black/charcoal label, white brand lettering and two white elephants facing each other, intricate fine gold mandala linework on sides and gold lotus center, small exact white ŽIVOT name. Preserve exact package.",
+      "generationSourceFile": "exec-ebb2567a-cb83-4e1b-b7db-99813f6eb974.png",
+      "finalPng": "dist/assets/products-editorial/51.png",
+      "finalWebp": "dist/assets/products-editorial/51.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 236,
+      "name": "Ashwagandha Complex 60 kapslí",
+      "catalog": true,
+      "input": "dist/assets/products/236.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Image 1 is the EDIT TARGET, the actual product photograph. Edit the photograph into a square 1024x1024 composition; preserve the SAME ACTUAL package(s) exactly: original brand and all label artwork/colors, product name, cap, bottle shape, material and proportions. Do not redesign, simplify, translate, or replace the packaging. Change ONLY the white background, framing and lighting. Warm offwhite/light-stone #eeeee9 seamless matte tabletop and wall, soft daylight from upper left, natural soft contact shadow grounding the product, extremely restrained faint out-of-focus botanical shadow in background only. No props, no additional products, no new logos, no extra text. Object dominant at 76–84% canvas height, full cap and base visible, comfortable 8–12% edge margins. Near eye-level front view with only very slight threequarter depth, neutral true product colors, sharp readable labels. Slight natural asymmetry. Not a small object floating in huge empty space. Preserve every package in paired product photos, no cropping. Square product editorial photograph, photoreal. Product identity: nupreme ASHWAGANDHA STRESS & MIND COMPLEX brown bottle with black ribbed cap, ivory label with dark blue curve at left, round gold brush N emblem, dark lettering including TULSI • RHODIOLA • CURCUMA • PIPERIN and 60 KAPSLÍ. Preserve exact packaging, original slanted label perspective.",
+      "generationSourceFile": "exec-b891e95b-8ded-4cdd-a71a-630193eac0a5.png",
+      "finalPng": "dist/assets/products-editorial/236.png",
+      "finalWebp": "dist/assets/products-editorial/236.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 266,
+      "name": "Bioaktivní B-Complex 60 kapslí",
+      "catalog": true,
+      "input": "dist/assets/products/266.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Image 1 is the EDIT TARGET, the actual product photograph. Edit the photograph into a square 1024x1024 composition; preserve the SAME ACTUAL package(s) exactly: original brand and all label artwork/colors, product name, cap, bottle shape, material and proportions. Do not redesign, simplify, translate, or replace the packaging. Change ONLY the white background, framing and lighting. Warm offwhite/light-stone #eeeee9 seamless matte tabletop and wall, soft daylight from upper left, natural soft contact shadow grounding the product, extremely restrained faint out-of-focus botanical shadow in background only. No props, no additional products, no new logos, no extra text. Object dominant at 76–84% canvas height, full cap and base visible, comfortable 8–12% edge margins. Near eye-level front view with only very slight threequarter depth, neutral true product colors, sharp readable labels. Slight natural asymmetry. Not a small object floating in huge empty space. Preserve every package in paired product photos, no cropping. Square product editorial photograph, photoreal. Product identity: nupreme B-complex BIOACTIVE FORMULA ENERGY METABOLISM VEGAN 60 KAPSLÍ, brown bottle black ribbed cap, ivory label with teal green metallic curved band, round gold brush N emblem at left, white B-complex text at right and BIO ACTIVE darkdrop symbol above. Preserve exactly.",
+      "generationSourceFile": "exec-da3be4ef-4b52-413c-b94b-850b748d2c04.png",
+      "finalPng": "dist/assets/products-editorial/266.png",
+      "finalWebp": "dist/assets/products-editorial/266.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 257,
+      "name": "Bioaktivní koenzym Q10 + MCT 60 kapslí",
+      "catalog": true,
+      "input": "dist/assets/products/257.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Image 1 is the EDIT TARGET, the actual product photograph. Edit the photograph into a square 1024x1024 composition; preserve the SAME ACTUAL package(s) exactly: original brand and all label artwork/colors, product name, cap, bottle shape, material and proportions. Do not redesign, simplify, translate, or replace the packaging. Change ONLY the white background, framing and lighting. Warm offwhite/light-stone #eeeee9 seamless matte tabletop and wall, soft daylight from upper left, natural soft contact shadow grounding the product, extremely restrained faint out-of-focus botanical shadow in background only. No props, no additional products, no new logos, no extra text. Object dominant at 76–84% canvas height, full cap and base visible, comfortable 8–12% edge margins. Near eye-level front view with only very slight threequarter depth, neutral true product colors, sharp readable labels. Slight natural asymmetry. Not a small object floating in huge empty space. Preserve every package in paired product photos, no cropping. Square product editorial photograph, photoreal. Product identity: nupreme Coenzym Q10 + MCT, HIGH ABSORBTION BIOACTIVE VEGAN 60 KAPSLÍ, brown bottle and black ribbed lid, ivory label and taupe/bronze metallic curved band, round gold brush N emblem left and white product lettering right. Preserve label spelling exactly from reference.",
+      "generationSourceFile": "exec-2d4811cd-496e-4a53-bfee-bbe890ff3e32.png",
+      "finalPng": "dist/assets/products-editorial/257.png",
+      "finalWebp": "dist/assets/products-editorial/257.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 242,
+      "name": "Bioaktivní magnesium + šafrán 60 kapslí",
+      "catalog": true,
+      "input": "dist/assets/products/242.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Image 1 is the EDIT TARGET, the actual product photograph. Edit the photograph into a square 1024x1024 composition; preserve the SAME ACTUAL package(s) exactly: original brand and all label artwork/colors, product name, cap, bottle shape, material and proportions. Do not redesign, simplify, translate, or replace the packaging. Change ONLY the white background, framing and lighting. Warm offwhite/light-stone #eeeee9 seamless matte tabletop and wall, soft daylight from upper left, natural soft contact shadow grounding the product, extremely restrained faint out-of-focus botanical shadow in background only. No props, no additional products, no new logos, no extra text. Object dominant at 76–84% canvas height, full cap and base visible, comfortable 8–12% edge margins. Near eye-level front view with only very slight threequarter depth, neutral true product colors, sharp readable labels. Slight natural asymmetry. Not a small object floating in huge empty space. Preserve every package in paired product photos, no cropping. Square product editorial photograph, photoreal. Product identity: nupreme Magnesium complex + Saffron • B6, CHELATED MENTAL HEALTH ANTI-STRESS, brown bottle black ribbed cap, ivory label and purple metallic curved band, gold brush N emblem left and white product lettering right, dark BIO ACTIVE dropsymbol upperright, 60 KAPSLÍ. Preserve exact package and text.",
+      "generationSourceFile": "exec-4d66ecd9-3ced-4927-8e0b-917fe31f814c.png",
+      "finalPng": "dist/assets/products-editorial/242.png",
+      "finalWebp": "dist/assets/products-editorial/242.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 269,
+      "name": "Bioaktivní zinek chelát 60 kapslí",
+      "catalog": true,
+      "input": "dist/assets/products/269.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Image 1 is the EDIT TARGET, the actual product photograph. Edit the photograph into a square 1024x1024 composition; preserve the SAME ACTUAL package(s) exactly: original brand and all label artwork/colors, product name, cap, bottle shape, material and proportions. Do not redesign, simplify, translate, or replace the packaging. Change ONLY the white background, framing and lighting. Warm offwhite/light-stone #eeeee9 seamless matte tabletop and wall, soft daylight from upper left, natural soft contact shadow grounding the product, extremely restrained faint out-of-focus botanical shadow in background only. No props, no additional products, no new logos, no extra text. Object dominant at 76–84% canvas height, full cap and base visible, comfortable 8–12% edge margins. Near eye-level front view with only very slight threequarter depth, neutral true product colors, sharp readable labels. Slight natural asymmetry. Not a small object floating in huge empty space. Preserve every package in paired product photos, no cropping. Square product editorial photograph, photoreal. Product identity: nupreme ZINC complex, CHELATED SELENIUM • COPPER VEGAN, brown bottle black ribbed cap, ivory label and metallic sky blue curved band, gold brush N emblem left and exact white ZINC complex lettering right, 60 KAPSLÍ. Preserve exact original package art and proportions.",
+      "generationSourceFile": "exec-c55307a2-923e-4d7f-a370-f26ade3320a8.png",
+      "finalPng": "dist/assets/products-editorial/269.png",
+      "finalWebp": "dist/assets/products-editorial/269.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 290,
+      "name": "CBD",
+      "catalog": true,
+      "input": "dist/assets/products-source/290.jpeg",
+      "prompt": "Use case: precise-object-edit.\nAsset type: premium ecommerce product thumbnail, square 1:1 photograph.\nInput: exact user-provided CBD product packaging, the edit target.\nPrimary request: change only scene, framing and lighting while keeping this SAME physical product and all its package details faithfully.\nInvariants: Keep the exact dark brown glass bottle, black ribbed cap and emerald-green label with golden hemp leaf, violet lower band, gold fine rules. Preserve original label wording \"CBD\", \"CBG CBC MCT\" and the visible ingredient line. Do not add new effects or claims. All visible original typography, colors, logo/artwork, package shape, material, size proportions and cap must remain unchanged. Never redesign, rebrand or invent packaging content.\nScene: seamless matte warm offwhite light-stone #eeeee9 tabletop and wall, subtle natural texture, soft daylight from upper left, gentle grounded contact shadow. Faint blurred botanical shadow only in background. No props.\nComposition: square 1:1 finished image; dominant full package at 76–84 percent canvas height, comfortable 8–12 percent clear edges, near eye-level front view with very slight threequarter depth and natural asymmetry. Sharp readable original label and neutral accurate colors.\nAvoid: cropped cap/base, added products or objects, new text or logos or claims, watermark, artificial glow, excessive negative space. Produce one finished product photograph.",
+      "generationSourceFile": "exec-f16e0c20-763d-43f7-9b74-46c230ea398f.png",
+      "finalPng": "dist/assets/products-editorial/290.png",
+      "finalWebp": "dist/assets/products-editorial/290.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 293,
+      "name": "Chlap",
+      "catalog": true,
+      "input": "dist/assets/products-source/293.jpeg",
+      "prompt": "Use case: precise-object-edit.\nAsset type: premium ecommerce product thumbnail, square 1:1 photograph.\nInput: exact user-provided Chlap product packaging, the edit target.\nPrimary request: change only scene, framing and lighting while keeping this SAME physical product and all its package details faithfully.\nInvariants: Keep the exact brown glass jar, black ribbed cap, red label, gold thin rules and golden bearded man profile. Preserve original wording \"CHLAP\" and \"PRO MUŽE K CESTĚ NA VRCHOL\". Keep exact label design and proportions. All visible original typography, colors, logo/artwork, package shape, material, size proportions and cap must remain unchanged. Never redesign, rebrand or invent packaging content.\nScene: seamless matte warm offwhite light-stone #eeeee9 tabletop and wall, subtle natural texture, soft daylight from upper left, gentle grounded contact shadow. Faint blurred botanical shadow only in background. No props.\nComposition: square 1:1 finished image; dominant full package at 76–84 percent canvas height, comfortable 8–12 percent clear edges, near eye-level front view with very slight threequarter depth and natural asymmetry. Sharp readable original label and neutral accurate colors.\nAvoid: cropped cap/base, added products or objects, new text or logos or claims, watermark, artificial glow, excessive negative space. Produce one finished product photograph.",
+      "generationSourceFile": "exec-b7638cd0-6fec-449c-b819-2b8b8fdbfc1f.png",
+      "finalPng": "dist/assets/products-editorial/293.png",
+      "finalWebp": "dist/assets/products-editorial/293.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 263,
+      "name": "Chlorella + Spirulina 120 tablet BIO",
+      "catalog": true,
+      "input": "dist/assets/products/263.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Image 1 is the EDIT TARGET, the actual product photograph. Edit the photograph into a square 1024x1024 composition; preserve the SAME ACTUAL package(s) exactly: original brand and all label artwork/colors, product name, cap, bottle shape, material and proportions. Do not redesign, simplify, translate, or replace the packaging. Change ONLY the white background, framing and lighting. Warm offwhite/light-stone #eeeee9 seamless matte tabletop and wall, soft daylight from upper left, natural soft contact shadow grounding the product, extremely restrained faint out-of-focus botanical shadow in background only. No props, no additional products, no new logos, no extra text. Object dominant at 76–84% canvas height, full cap and base visible, comfortable 8–12% edge margins. Near eye-level front view with only very slight threequarter depth, neutral true product colors, sharp readable labels. Slight natural asymmetry. Not a small object floating in huge empty space. Preserve every package in paired product photos, no cropping. Square product editorial photograph, photoreal. Product identity: nupreme BIO CHLORELLA + BIO SPIRULINA, 120 TABLET 24g, white plastic bottle with white ribbed lid, cream label green and blue wave bands, round black/gold brush N emblem, exact white title text in blue zone and black benefit text below, original barcode visible rightedge. Preserve exact package.",
+      "generationSourceFile": "exec-cceba6ba-3673-435e-8b23-3b1c5ed6f842.png",
+      "finalPng": "dist/assets/products-editorial/263.png",
+      "finalWebp": "dist/assets/products-editorial/263.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 275,
+      "name": "Chlorella 120 tablet BIO",
+      "catalog": true,
+      "input": "dist/assets/products/275.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Image 1 is the EDIT TARGET, the actual product photograph. Edit the photograph into a square 1024x1024 composition; preserve the SAME ACTUAL package(s) exactly: original brand and all label artwork/colors, product name, cap, bottle shape, material and proportions. Do not redesign, simplify, translate, or replace the packaging. Change ONLY the white background, framing and lighting. Warm offwhite/light-stone #eeeee9 seamless matte tabletop and wall, soft daylight from upper left, natural soft contact shadow grounding the product, extremely restrained faint out-of-focus botanical shadow in background only. No props, no additional products, no new logos, no extra text. Object dominant at 76–84% canvas height, full cap and base visible, comfortable 8–12% edge margins. Near eye-level front view with only very slight threequarter depth, neutral true product colors, sharp readable labels. Slight natural asymmetry. Not a small object floating in huge empty space. Preserve every package in paired product photos, no cropping. Square product editorial photograph, photoreal. Product identity: nupreme BIO CHLORELLA, 120 TABLET 24g, white plastic bottle with white ribbed lid, cream label emerald green wave band, black/gold circular brush N emblem, exact white BIO CHLORELLA title in green zone and black Czech/Slovak benefit text below, original barcode rightedge. Preserve exact product.",
+      "generationSourceFile": "exec-b3d54a78-a475-4ade-abd3-85c33a2e5bec.png",
+      "finalPng": "dist/assets/products-editorial/275.png",
+      "finalWebp": "dist/assets/products-editorial/275.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 260,
+      "name": "Cordyceps extrakt 100 kapslí",
+      "catalog": true,
+      "input": "dist/assets/products/260.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Image 1 is the EDIT TARGET, the actual product photograph. Edit the photograph into a square 1024x1024 composition; preserve the SAME ACTUAL package(s) exactly: original brand and all label artwork/colors, product name, cap, bottle shape, material and proportions. Do not redesign, simplify, translate, or replace the packaging. Change ONLY the white background, framing and lighting. Warm offwhite/light-stone #eeeee9 seamless matte tabletop and wall, soft daylight from upper left, natural soft contact shadow grounding the product, extremely restrained faint out-of-focus botanical shadow in background only. No props, no additional products, no new logos, no extra text. Object dominant at 76–84% canvas height, full cap and base visible, comfortable 8–12% edge margins. Near eye-level front view with only very slight threequarter depth, neutral true product colors, sharp readable labels. Slight natural asymmetry. Not a small object floating in huge empty space. Preserve every package in paired product photos, no cropping. Square product editorial photograph, photoreal. Product identity: nupreme CORDYCEPS PREMIUM, 100 KAPSLÍ/KAPSÚL • 45 G, white plastic bottle white ribbed lid with round gold/black Quality Control Tested Seal printed on cap top, cream label and brown band left/bottom, round black/gold brush N emblem and circular yin-yang trigram mark above CORDYCEPS. Preserve exact actual bottle including capprint, slight threequarter angle from target, label proportions and all visible texts.",
+      "generationSourceFile": "exec-27a5bb2c-2288-46b7-9539-2916fe9f401e.png",
+      "finalPng": "dist/assets/products-editorial/260.png",
+      "finalWebp": "dist/assets/products-editorial/260.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 120,
+      "name": "DuoPack TELOMWAY + ADAPTOGAP",
+      "catalog": true,
+      "input": "dist/assets/products/120.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Image 1 is the EDIT TARGET, the actual product photograph. Edit the photograph into a square 1024x1024 composition; preserve the SAME ACTUAL package(s) exactly: original brand and all label artwork/colors, product name, cap, bottle shape, material and proportions. Do not redesign, simplify, translate, or replace the packaging. Change ONLY the white background, framing and lighting. Warm offwhite/light-stone #eeeee9 seamless matte tabletop and wall, soft daylight from upper left, natural soft contact shadow grounding the product, extremely restrained faint out-of-focus botanical shadow in background only. No props, no additional products, no new logos, no extra text. Object dominant at 76–84% canvas height, full cap and base visible, comfortable 8–12% edge margins. Near eye-level front view with only very slight threequarter depth, neutral true product colors, sharp readable labels. Slight natural asymmetry. Not a small object floating in huge empty space. Preserve every package in paired product photos, no cropping. Square product editorial photograph, photoreal. Product identity: DuoPack of TWO actual White Elephant silver cylindrical metal tins, TELOMWAY on left (purple/fuchsia label, white large name, gold chromosome emblem), ADAPTOGAP on right (teal/blue/green label, exact white large name, white seedling circle emblem). BOTH full tins must remain side by side and same relative sizes with a narrow natural gap; both silver round lids and bases fully visible. For this two-package set, prioritize total pair spanning 80–84% canvas WIDTH and around 58–65% height so neither tin is cut off; no tall slim redesign or overlapping labels. Exact original packaging and printed artwork from input.",
+      "generationSourceFile": "exec-d9414d0c-393e-4087-b751-0330569d8fde.png",
+      "finalPng": "dist/assets/products-editorial/120.png",
+      "finalWebp": "dist/assets/products-editorial/120.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 105,
+      "name": "GlukoNormal",
+      "catalog": true,
+      "input": "dist/assets/products/105.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Edit the supplied reference photograph into a 1:1 square 1024x1024 final photograph. Preserve the SAME ACTUAL package(s), original brand, exact label artwork and colors, product name, cap, shape, material and proportions aggressively. Change ONLY backdrop, framing and lighting; never redesign the package or replace its printed graphics. Warm off-white / light-stone #eeeee9 seamless matte tabletop and wall. Soft daylight from upper left, a natural soft contact shadow grounding the package, restrained faint out-of-focus botanical shadow only in background. No physical props, new logos or extra text. Product dominant, 76–84% of canvas HEIGHT, entire package visible with comfortable 8–12% edges. Eye-level front view with only very slight three-quarter depth. Neutral true product colors, sharp readable labels. Slight natural asymmetry, no small item floating in a huge box. Do not crop packaging. Preserve all packages if paired. Reference target: GlukoNormal from White Elephant is an official two-bottle set: SUPERPRENT bottle with pink header on left and PROSTABIL bottle with dark green header on right. Preserve both and exact illustrated labels. Both bottles stay adjacent, no added title.",
+      "generationSourceFile": "exec-fc1ba768-56b7-4f28-9382-27d82419fa90.png",
+      "finalPng": "dist/assets/products-editorial/105.png",
+      "finalWebp": "dist/assets/products-editorial/105.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 284,
+      "name": "Golden Mylk 80 g BIO",
+      "catalog": true,
+      "input": "dist/assets/products/284.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Edit the supplied reference photograph into a 1:1 square 1024x1024 final photograph. Preserve the SAME ACTUAL package(s), original brand, exact label artwork and colors, product name, cap, shape, material and proportions aggressively. Change ONLY backdrop, framing and lighting; never redesign the package or replace its printed graphics. Warm off-white / light-stone #eeeee9 seamless matte tabletop and wall. Soft daylight from upper left, a natural soft contact shadow grounding the package, restrained faint out-of-focus botanical shadow only in background. No physical props, new logos or extra text. Product dominant, 76–84% of canvas HEIGHT, entire package visible with comfortable 8–12% edges. Eye-level front view with only very slight three-quarter depth. Neutral true product colors, sharp readable labels. Slight natural asymmetry, no small item floating in a huge box. Do not crop packaging. Preserve all packages if paired. Reference target: Nupreme BIO GOLDEN MYLK 80 g, a short clear glass jar with silver metal lid, cream/gold label and black/gold circular emblem; preserve original package dimensions and exact label. Do not elongate this short jar.",
+      "generationSourceFile": "exec-18aa1d7c-c1f7-4f93-a279-99a59fece5a9.png",
+      "finalPng": "dist/assets/products-editorial/284.png",
+      "finalWebp": "dist/assets/products-editorial/284.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 248,
+      "name": "Hericium extrakt 100 kapslí",
+      "catalog": true,
+      "input": "dist/assets/products/248.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Edit the supplied reference photograph into a 1:1 square 1024x1024 final photograph. Preserve the SAME ACTUAL package(s), original brand, exact label artwork and colors, product name, cap, shape, material and proportions aggressively. Change ONLY backdrop, framing and lighting; never redesign the package or replace its printed graphics. Warm off-white / light-stone #eeeee9 seamless matte tabletop and wall. Soft daylight from upper left, a natural soft contact shadow grounding the package, restrained faint out-of-focus botanical shadow only in background. No physical props, new logos or extra text. Product dominant, 76–84% of canvas HEIGHT, entire package visible with comfortable 8–12% edges. Eye-level front view with only very slight three-quarter depth. Neutral true product colors, sharp readable labels. Slight natural asymmetry, no small item floating in a huge box. Do not crop packaging. Preserve all packages if paired. Reference target: Nupreme HERICIUM PREMIUM, white plastic bottle with white ribbed cap and cream / pale green label, 100 KAPSLÍ / KAPSÚL, 30 G. Keep all label artwork, gold/black emblems and product identity. Preserve cap's top printing.",
+      "generationSourceFile": "exec-03573be7-5860-4771-a263-ed0f8130cb21.png",
+      "finalPng": "dist/assets/products-editorial/248.png",
+      "finalWebp": "dist/assets/products-editorial/248.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Liposomal Curcumin 30 kapslí",
+      "catalog": true,
+      "input": "dist/assets/products/254.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Edit the supplied reference photograph into a 1:1 square 1024x1024 final photograph. Preserve the SAME ACTUAL package(s), original brand, exact label artwork and colors, product name, cap, shape, material and proportions aggressively. Change ONLY backdrop, framing and lighting; never redesign the package or replace its printed graphics. Warm off-white / light-stone #eeeee9 seamless matte tabletop and wall. Soft daylight from upper left, a natural soft contact shadow grounding the package, restrained faint out-of-focus botanical shadow only in background. No physical props, new logos or extra text. Product dominant, 76–84% of canvas HEIGHT, entire package visible with comfortable 8–12% edges. Eye-level front view with only very slight three-quarter depth. Neutral true product colors, sharp readable labels. Slight natural asymmetry, no small item floating in a huge box. Do not crop packaging. Preserve all packages if paired. Reference target: Nupreme LIPOSOMAL Curcumin, dark brown supplement bottle with black ribbed cap and cream/gold/copper label. Preserve all exact printed label text/artwork and relative dimensions; copper-orange stripe at base. Exact front name LIPOSOMAL Curcumin. Crucial correction: the package count printed in the lower copper stripe must read EXACTLY \"30 KAPSLÍ / KAPSÚL / KAPSELN\" (thirty, never sixty). This is the thirty capsule product. Keep all other artwork and bottle and square photograph.",
+      "generationSourceFile": "exec-3acefdde-d059-4dcf-b25b-a6c32398e932.png",
+      "finalPng": "dist/assets/products-editorial/254.png",
+      "finalWebp": "dist/assets/products-editorial/254.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 230,
+      "name": "Liposomal kyselina hyaluronová + vitamín C 30 kapslí",
+      "catalog": true,
+      "input": "dist/assets/products/230.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Edit the supplied reference photograph into a 1:1 square 1024x1024 final photograph. Preserve the SAME ACTUAL package(s), original brand, exact label artwork and colors, product name, cap, shape, material and proportions aggressively. Change ONLY backdrop, framing and lighting; never redesign the package or replace its printed graphics. Warm off-white / light-stone #eeeee9 seamless matte tabletop and wall. Soft daylight from upper left, a natural soft contact shadow grounding the package, restrained faint out-of-focus botanical shadow only in background. No physical props, new logos or extra text. Product dominant, 76–84% of canvas HEIGHT, entire package visible with comfortable 8–12% edges. Eye-level front view with only very slight three-quarter depth. Neutral true product colors, sharp readable labels. Slight natural asymmetry, no small item floating in a huge box. Do not crop packaging. Preserve all packages if paired. Reference target: Nupreme LIPOSOMAL HYALURONIC ACID & VIT. C, dark brown supplement bottle with black ribbed cap and cream/gold/lavender label. Preserve exact typography and purple base stripe. Printed capsule count exactly 30 KAPSLÍ / KAPSÚL / KAPSELN, not 60. Keep upper Instagram /nupreme_official mark as in source.",
+      "generationSourceFile": "exec-2c785563-d7a0-4a9b-906b-4d854b1c7083.png",
+      "finalPng": "dist/assets/products-editorial/230.png",
+      "finalWebp": "dist/assets/products-editorial/230.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 281,
+      "name": "Liposomal vitamín C 30 kapslí",
+      "catalog": true,
+      "input": "dist/assets/products/281.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Edit the supplied reference photograph into a 1:1 square 1024x1024 final photograph. Preserve the SAME ACTUAL package(s), original brand, exact label artwork and colors, product name, cap, shape, material and proportions aggressively. Change ONLY backdrop, framing and lighting; never redesign the package or replace its printed graphics. Warm off-white / light-stone #eeeee9 seamless matte tabletop and wall. Soft daylight from upper left, a natural soft contact shadow grounding the package, restrained faint out-of-focus botanical shadow only in background. No physical props, new logos or extra text. Product dominant, 76–84% of canvas HEIGHT, entire package visible with comfortable 8–12% edges. Eye-level front view with only very slight three-quarter depth. Neutral true product colors, sharp readable labels. Slight natural asymmetry, no small item floating in a huge box. Do not crop packaging. Preserve all packages if paired. Reference target: Nupreme LIPOSOMAL vit. C, brown supplement bottle with black ribbed cap, cream/gold label and vivid lime-green stripe at base. Preserve exact typography, gold/black circular emblem and label. Printed capsule count exactly 30 KAPSLÍ / KAPSÚL / KAPSELN, not60.",
+      "generationSourceFile": "exec-b0ae188b-5f7b-4a24-a635-1bf959e453aa.png",
+      "finalPng": "dist/assets/products-editorial/281.png",
+      "finalWebp": "dist/assets/products-editorial/281.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 245,
+      "name": "Liposomal vitamín D3 + K2 + Mg 30 kapslí",
+      "catalog": true,
+      "input": "dist/assets/products/245.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Edit the supplied reference photograph into a 1:1 square 1024x1024 final photograph. Preserve the SAME ACTUAL package(s), original brand, exact label artwork and colors, product name, cap, shape, material and proportions aggressively. Change ONLY backdrop, framing and lighting; never redesign the package or replace its printed graphics. Warm off-white / light-stone #eeeee9 seamless matte tabletop and wall. Soft daylight from upper left, a natural soft contact shadow grounding the package, restrained faint out-of-focus botanical shadow only in background. No physical props, new logos or extra text. Product dominant, 76–84% of canvas HEIGHT, entire package visible with comfortable 8–12% edges. Eye-level front view with only very slight three-quarter depth. Neutral true product colors, sharp readable labels. Slight natural asymmetry, no small item floating in a huge box. Do not crop packaging. Preserve all packages if paired. Reference target: Nupreme LIPOSOMAL D3+K2 + Magnesium dark brown bottle, black ribbed cap, cream/gold label with desaturated blue base stripe. Exact product text D3+K2 + Magnesium. Printed capsule count exactly30 KAPSLÍ / KAPSÚL / KAPSELN. Preserve label artworks, all colors, original bottle dimensions.",
+      "generationSourceFile": "exec-74b7eb8b-68b8-4675-9590-9732ca44d794.png",
+      "finalPng": "dist/assets/products-editorial/245.png",
+      "finalWebp": "dist/assets/products-editorial/245.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 278,
+      "name": "Mladý ječmen Premium 200 g BIO",
+      "catalog": true,
+      "input": "dist/assets/products/278.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Edit the supplied reference photograph into a 1:1 square 1024x1024 final photograph. Preserve the SAME ACTUAL package(s), original brand, exact label artwork and colors, product name, cap, shape, material and proportions aggressively. Change ONLY backdrop, framing and lighting; never redesign the package or replace its printed graphics. Warm off-white / light-stone #eeeee9 seamless matte tabletop and wall. Soft daylight from upper left, a natural soft contact shadow grounding the package, restrained faint out-of-focus botanical shadow only in background. No physical props, new logos or extra text. Product dominant, 76–84% of canvas HEIGHT, entire package visible with comfortable 8–12% edges. Eye-level front view with only very slight three-quarter depth. Neutral true product colors, sharp readable labels. Slight natural asymmetry, no small item floating in a huge box. Do not crop packaging. Preserve all packages if paired. Reference target: Nupreme BIO MLADÝ JEČMEN, wide white supplement tub with broad white lid and metallic gold / dark green label. Preserve its short wide proportions (do not turn into tall narrow bottle), logo, all printed text, dark green design. Original actual200g tub. Exact front BIO MLADÝ JEČMEN.",
+      "generationSourceFile": "exec-a572f4b5-33f3-4823-a37d-b964010468bf.png",
+      "finalPng": "dist/assets/products-editorial/278.png",
+      "finalWebp": "dist/assets/products-editorial/278.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 287,
+      "name": "Paměť",
+      "catalog": true,
+      "input": "dist/assets/products-source/287.jpeg",
+      "prompt": "Use case: precise-object-edit.\nAsset type: premium ecommerce product thumbnail, square 1:1 photograph.\nInput: exact user-provided Paměť product packaging, the edit target.\nPrimary request: change only scene, framing and lighting while keeping this SAME physical product and all its package details faithfully.\nInvariants: Keep the exact brown glass jar, black ribbed cap, dark blue label, blue human head/brain illustration, orange horizontal rules. Preserve exact wording \"PAMĚŤ\" and \"ABY ČLOVĚK NAŠEL VZPOMÍNKY\". Keep label artwork and proportions. All visible original typography, colors, logo/artwork, package shape, material, size proportions and cap must remain unchanged. Never redesign, rebrand or invent packaging content.\nScene: seamless matte warm offwhite light-stone #eeeee9 tabletop and wall, subtle natural texture, soft daylight from upper left, gentle grounded contact shadow. Faint blurred botanical shadow only in background. No props.\nComposition: square 1:1 finished image; dominant full package at 76–84 percent canvas height, comfortable 8–12 percent clear edges, near eye-level front view with very slight threequarter depth and natural asymmetry. Sharp readable original label and neutral accurate colors.\nAvoid: cropped cap/base, added products or objects, new text or logos or claims, watermark, artificial glow, excessive negative space. Produce one finished product photograph.",
+      "generationSourceFile": "exec-a812da43-b169-4ec2-b85c-a449220140bd.png",
+      "finalPng": "dist/assets/products-editorial/287.png",
+      "finalWebp": "dist/assets/products-editorial/287.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 233,
+      "name": "Premium Collagen Peptides 205 g",
+      "catalog": true,
+      "input": "dist/assets/products/233.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Edit the supplied reference photograph into a 1:1 square 1024x1024 final photograph. Preserve the SAME ACTUAL package(s), original brand, exact label artwork and colors, product name, cap, shape, material and proportions aggressively. Change ONLY backdrop, framing and lighting; never redesign the package or replace its printed graphics. Warm off-white / light-stone #eeeee9 seamless matte tabletop and wall. Soft daylight from upper left, a natural soft contact shadow grounding the package, restrained faint out-of-focus botanical shadow only in background. No physical props, new logos or extra text. Product dominant, 76–84% of canvas HEIGHT, entire package visible with comfortable 8–12% edges. Eye-level front view with only very slight three-quarter depth. Neutral true product colors, sharp readable labels. Slight natural asymmetry, no small item floating in a huge box. Do not crop packaging. Preserve all packages if paired. Reference target: Nupreme PREMIUM COLLAGEN PEPTIDES 205 g, white squat wide tub and broad white lid, white/silver label with gold/black circular emblem, lilac and gold molecular droplet decoration. Preserve exactly the original short wide dimensions, label arrangement, product quantity205g and25dávek. Front subtitle HYALURONIC ACID • VITAMIN C • BIOTIN.",
+      "generationSourceFile": "exec-35c728fb-1581-49d2-9bb9-5f71bb138703.png",
+      "finalPng": "dist/assets/products-editorial/233.png",
+      "finalWebp": "dist/assets/products-editorial/233.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 239,
+      "name": "Reishi extrakt 100 kapslí",
+      "catalog": true,
+      "input": "dist/assets/products/239.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Edit the supplied reference photograph into a 1:1 square 1024x1024 final photograph. Preserve the SAME ACTUAL package(s), original brand, exact label artwork and colors, product name, cap, shape, material and proportions aggressively. Change ONLY backdrop, framing and lighting; never redesign the package or replace its printed graphics. Warm off-white / light-stone #eeeee9 seamless matte tabletop and wall. Soft daylight from upper left, a natural soft contact shadow grounding the package, restrained faint out-of-focus botanical shadow only in background. No physical props, new logos or extra text. Product dominant, 76–84% of canvas HEIGHT, entire package visible with comfortable 8–12% edges. Eye-level front view with only very slight three-quarter depth. Neutral true product colors, sharp readable labels. Slight natural asymmetry, no small item floating in a huge box. Do not crop packaging. Preserve all packages if paired. Reference target: Nupreme REISHI PREMIUM, white supplement bottle with white ribbed cap and cream/gold / burgundy-red label with yin-yang emblem. Preserve exact printed front text, goldblack large circular logo and burgundy wave. Count100 KAPSLÍ/KAPSÚL –30 G. Keep actual bottle proportions and lid top print.",
+      "generationSourceFile": "exec-9dde50f6-6124-416a-9f39-06e8f9d9cd2b.png",
+      "finalPng": "dist/assets/products-editorial/239.png",
+      "finalWebp": "dist/assets/products-editorial/239.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 272,
+      "name": "Spirulina 120 tablet BIO",
+      "catalog": true,
+      "input": "dist/assets/products/272.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Edit the supplied reference photograph into a 1:1 square 1024x1024 final photograph. Preserve the SAME ACTUAL package(s), original brand, exact label artwork and colors, product name, cap, shape, material and proportions aggressively. Change ONLY backdrop, framing and lighting; never redesign the package or replace its printed graphics. Warm off-white / light-stone #eeeee9 seamless matte tabletop and wall. Soft daylight from upper left, a natural soft contact shadow grounding the package, restrained faint out-of-focus botanical shadow only in background. No physical props, new logos or extra text. Product dominant, 76–84% of canvas HEIGHT, entire package visible with comfortable 8–12% edges. Eye-level front view with only very slight three-quarter depth. Neutral true product colors, sharp readable labels. Slight natural asymmetry, no small item floating in a huge box. Do not crop packaging. Preserve all packages if paired. Reference target: Nupreme BIO SPIRULINA, white tall plastic supplement bottle with white ribbed cap and cream/gold label, turquoise blue curved lower panel. Preserve exact source dimensions, printed logos/text and blue. Front120 TABLET 24g. Do not change count120 or quantity24g, preserve wrapping barcode visible at right.",
+      "generationSourceFile": "exec-5318c663-ed62-4997-b5d4-1fc02305670c.png",
+      "finalPng": "dist/assets/products-editorial/272.png",
+      "finalWebp": "dist/assets/products-editorial/272.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 251,
+      "name": "Super Greens 200 g BIO",
+      "catalog": true,
+      "input": "dist/assets/products/251.webp",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Edit the supplied reference photograph into a 1:1 square 1024x1024 final photograph. Preserve the SAME ACTUAL package(s), original brand, exact label artwork and colors, product name, cap, shape, material and proportions aggressively. Change ONLY backdrop, framing and lighting; never redesign the package or replace its printed graphics. Warm off-white / light-stone #eeeee9 seamless matte tabletop and wall. Soft daylight from upper left, a natural soft contact shadow grounding the package, restrained faint out-of-focus botanical shadow only in background. No physical props, new logos or extra text. Product dominant, 76–84% of canvas HEIGHT, entire package visible with comfortable 8–12% edges. Eye-level front view with only very slight three-quarter depth. Neutral true product colors, sharp readable labels. Slight natural asymmetry, no small item floating in a huge box. Do not crop packaging. Preserve all packages if paired. Reference target: Nupreme SUPER GREENS 200g wide squat white tub, broad white lid and emerald/turquoise/palegreen printed label, goldblack circular logo, printed pistachio illustration at right. Preserve actual short wide tub proportions and exact label arrangement/text/colors. Quantity200g. Preserve original printed pistachios as label artwork only, do not add loose props. Front SUPER GREENS, DETOX • VITALITA • IMUNITA.",
+      "generationSourceFile": "exec-c30e7d6e-5443-45bb-9950-c653deebbd5f.png",
+      "finalPng": "dist/assets/products-editorial/251.png",
+      "finalWebp": "dist/assets/products-editorial/251.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": 296,
+      "name": "Synbiotika",
+      "catalog": true,
+      "input": "dist/assets/products-source/296.jpeg",
+      "prompt": "Use case: precise-object-edit. Asset type: premium botanical ecommerce product thumbnail. Edit the supplied reference photograph into a 1:1 square 1024x1024 final photograph. Preserve the SAME ACTUAL package(s), original brand, exact label artwork and colors, product name, cap, shape, material and proportions aggressively. Change ONLY backdrop, framing and lighting; never redesign the package or replace its printed graphics. Warm off-white / light-stone #eeeee9 seamless matte tabletop and wall. Soft daylight from upper left, a natural soft contact shadow grounding the package, restrained faint out-of-focus botanical shadow only in background. No physical props, new logos or extra text. Product dominant, 76–84% of canvas HEIGHT, entire package visible with comfortable 8–12% edges. Eye-level front view with only very slight three-quarter depth. Neutral true product colors, sharp readable labels. Slight natural asymmetry, no small item floating in a huge box. Do not crop packaging. Preserve all packages if paired. Reference target: actual user-supplied SYNBIOTIKA dark amber glass bottle and black ribbed cap. Preserve the iridescent turquoise-to-pink/silver printed label, thin pale silver horizontal borders, the exact white line intestine symbol, centered white text SYNBIOTIKA and subtitle \"DVOJÍ SÍLA PRO SPOKOJENÉ BŘICHO\". Do not add any brand or logo or medical claims. Preserve this exact clean packaging and original dimensions; sharp photo with true subtle iridescent label sheen. This is an edit of the actual bottle.",
+      "generationSourceFile": "exec-091a643c-eb95-4a6d-9d9f-19b5eb603d5f.png",
+      "finalPng": "dist/assets/products-editorial/296.png",
+      "finalWebp": "dist/assets/products-editorial/296.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "queen-bee",
+      "name": "Queen Bee",
+      "catalog": false,
+      "input": "dist/assets/products-source/queen-bee.jpeg",
+      "prompt": "Use case: precise-object-edit.\nAsset type: square premium ecommerce product thumbnail photograph, aspect ratio 1:1.\nInput image: exact product packaging edit target, Queen Bee jar from user.\nPrimary request: retain this SAME actual jar and its label, only improve lighting and recompose into a premium natural product photograph matching Mijoli's editorial product collection.\nInvariants: preserve brown glass bottle, black ribbed screw cap, exact proportions, golden olive label, crown bee illustration and botanical wreath, every visible existing text and spelling, especially \"QUEEN BEE\", \"MATEŘÍ KAŠIČKA\", \"REISHI * CORDYCEPS * CHAGA\". Do not redesign, replace, invent or change any packaging content.\nScene/backdrop: warm offwhite light stone #eeeee9 seamless matte tabletop and wall. Soft natural daylight from upper left, soft grounded contact shadow and faint blurred botanical shadow in distant background. No extra props.\nComposition: 1:1 square, whole package visible, jar fills 76–84 percent of canvas height, comfortable 8–12 percent surrounding space, near eye-level frontal view with very subtle threequarter depth. Dominant close product, sharp readable label. No empty white cutout margins.\nConstraints: no additional product, logos, claims, text or watermark. Keep original neutral material and label colors. Produce a single finished square image.",
+      "generationSourceFile": "exec-d233a289-8c6f-4675-b741-e002c5c8356c.png",
+      "finalPng": "dist/assets/products-editorial/queen-bee.png",
+      "finalWebp": "dist/assets/products-editorial/queen-bee.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "id": "oci",
+      "name": "Oči",
+      "catalog": false,
+      "input": "dist/assets/products-source/oci.jpeg",
+      "prompt": "Use case: precise-object-edit.\nAsset type: premium ecommerce thumbnail, single square 1:1 photograph.\nInput: user-provided original OČI product image, exact packaging edit target.\nPrimary request: transform only background, framing and lighting into a Mijoli editorial product photograph. Keep the SAME actual bottle unchanged.\nInvariants: preserve dark brown glass jar, ribbed black cap, exact proportions, teal label, golden fine rules, eye illustration, exact label typography and all visible wording, especially \"OČI\" and \"CHCI DOBŘE VIDĚT SVĚT KOLEM SEBE\". Never redesign label or invent details.\nBackdrop: warm offwhite light-stone #eeeee9 seamless matte tabletop and wall, subtle realistic texture; soft daylight from upper left; soft grounded contact shadow; only faint blurred botanical shadows behind the jar. No extra props.\nComposition: 1:1 square; whole package visible; dominant jar at 76–84 percent of canvas height with comfortable 8–12 percent margins, near eye-level frontal camera and very slight threequarter depth; crisp readable original label, natural glass.\nConstraints: preserve original colors and package identity. No additional object, product, logo, label, text, claims, or watermark. Output one completed square photograph.",
+      "generationSourceFile": "exec-5deab212-af37-40ca-afc2-568e6ce35b93.png",
+      "finalPng": "dist/assets/products-editorial/oci.png",
+      "finalWebp": "dist/assets/products-editorial/oci.webp",
+      "size": [
+        1254,
+        1254
+      ]
+    }
+  ]
+}

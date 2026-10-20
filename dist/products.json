@@ -7,7 +7,7 @@
     "category": "capsules",
     "price": 899.0,
     "inStock": true,
-    "image": "assets/products/129.webp",
+    "image": "assets/products-editorial/129.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/imunita---white-elephant/",
     "shortDescription": "Imunita – White Elephant je praktická tobolková receptura s vitaminem C, zinkem a rostlinnými extrakty. Vitamin C a zinek přispívají k normální funkci imunitního systému, takže se hodí pro pravidelné užívání v obdobích, kdy chcete mít každodenní režim vyřešený jednoduše.",
@@ -16,7 +16,10 @@
     "ingredients": "Vitamín C (kyselina L-askorbová), třapatka nachová (Echinacea purpurea) standardizovaný extrakt z celé rostliny (polyfenoly 4 %), maca peruánská (Lepidium Meyenii) extrakt z kořene (10:1), česnek černý fermentovaný (Allium sativum L.) extrakt palice (10:1), beta 1,3 D-Glucan, açai berry (Euterpe oleracea) extrakt z plodu (4:1), lichořeřišnice větší (Tropaeolum majus) extrakt z celé rostliny (10:1), ženšen pravý (Panax ginseng) standardizovaný extrakt z kořene (ginsenosidy 25 %), citrát zinečnatý, stearan hořečnatý (plnidlo), aloe vera (Aloe vera L.) extrakt z listu (200:1), rakytník řešetlákový (Hippophae rhamnoides Linn.) standardizovaný extrakt z plodu (flavonoidy 10 %), vegetariánská kapsle.",
     "use": "Užívejte 1–2 tobolky denně. Podávejte v jedné fázi 5–6 dnů, poté na 2 dny přerušte; takto postupujte 5–6 týdnů. Doplněk stravy. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené denní dávkování.",
     "warning": "Doplněk stravy. Konzultujte užívání s lékařem při vysokém krevním tlaku, hormonálně senzitivních onemocněních nebo užívání antibiotik. Není vhodné pro děti do 3 let, těhotné a kojící ženy. Ukládejte mimo dosah dětí. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené dávkování.",
-    "storage": "Uchovávejte v suchu při pokojové teplotě. Neskladujte na přímém slunci a v mrazu."
+    "storage": "Uchovávejte v suchu při pokojové teplotě. Neskladujte na přímém slunci a v mrazu.",
+    "sourceImage": "assets/products/129.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 69,
@@ -26,7 +29,7 @@
     "category": "capsules",
     "price": 888.0,
     "inStock": true,
-    "image": "assets/products/69.webp",
+    "image": "assets/products-editorial/69.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/hubnuti---white-elephant/",
     "shortDescription": "Hubnutí jsou tobolky pro období, kdy chceš držet tempo, větší disciplínu a mít po ruce doplněk, který tě nezdržuje složitým užíváním. Fungují jako jednoduchá a praktická volba pro dny, kdy si chceš svůj režim uhlídat pevněji a mít jednu jasnou oporu navíc.",
@@ -35,7 +38,10 @@
     "ingredients": "Guarana standardizovaný extrakt (Paullinia cupana) semena, kávovník arabský / zelená káva standardizovaný extrakt (Coffea arabica) plod, kotvičník zemní standardizovaný extrakt (Tribulus terrestris) plod, pampeliška lékařská standardizovaný extrakt (Taraxacum officinale) kořen, stearan hořečnatý rostlinného původu (plnidlo), tobolka (rostlinná želatina).",
     "use": "2 tobolky denně Vzhledem k obsahu guarany a zelené kávy užívejte nejlépe v první polovině dne. Doplněk stravy. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené denní dávkování. Nepřekračujte doporučené dávkování.",
     "warning": "Doplněk stravy. Není vhodné pro děti do 3 let, těhotné a kojící ženy. Ukládejte mimo dosah dětí. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené dávkování. Po otevření spotřebujte do 3 měsíců.",
-    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu. Po otevření spotřebujte do 3 měsíců."
+    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu. Po otevření spotřebujte do 3 měsíců.",
+    "sourceImage": "assets/products/69.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 75,
@@ -45,7 +51,7 @@
     "category": "capsules",
     "price": 533.0,
     "inStock": true,
-    "image": "assets/products/75.webp",
+    "image": "assets/products-editorial/75.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/cholesterol---white-elephant/",
     "shortDescription": "Cholesterol jsou tobolky pro chvíle, kdy nechceš zůstat u obyčejného základu a raději sáhneš po širší receptuře v jedné kapsli. Dávají smysl tam, kde chceš mít po ruce výraznější každodenní volbu místo jednoduchého jednosložkového doplňku.",
@@ -54,7 +60,10 @@
     "ingredients": "Beta 1,3-D-glukan, česnek černý fermentovaný (Allium sativum L.) extrakt palice (10:1), zázvor lékařský (Zingiber officinalis) standardizovaný extrakt z kořene (gingerol 10 %), chaga sibiřská (Inonotus obliquus) standardizovaný extrakt z nadzemní části (polysacharidy 40 %), lesklokorka lesklá (Ganoderma lucidum) standardizovaný extrakt z plodnice (polysacharidy 70 %), čajovník čínský (Camellia sinensis) standardizovaný extrakt z listu (polyfenoly 50 %), stearan hořečnatý (plnidlo), želatinová kapsle (hovězí želatina, voda, barviva).",
     "use": "1–2 tobolky denně Doplněk stravy. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené denní dávkování.",
     "warning": "Není vhodné pro děti do 3 let, těhotné a kojící ženy. Ukládejte mimo dosah dětí.",
-    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu. Po otevření spotřebujte do 3 měsíců."
+    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu. Po otevření spotřebujte do 3 měsíců.",
+    "sourceImage": "assets/products/75.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 96,
@@ -64,7 +73,7 @@
     "category": "elixirs",
     "price": 888.0,
     "inStock": true,
-    "image": "assets/products/96.webp",
+    "image": "assets/products-editorial/96.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/detoxikace---white-elephant/",
     "shortDescription": "Detoxikace je bylinný elixír postavený na ostropestřci a dalších pečlivě vybraných složkách pro každodenní režim. Guarana, klanopraška, zelený čaj a lékořice dávají receptuře živější charakter a posouvají ji dál než k běžné jednosložkové variantě.",
@@ -73,7 +82,10 @@
     "ingredients": "Glukózo-fruktózový sirup, ostropestřec mariánský standardizovaný extrakt, guarana standardizovaný extrakt, klanopraška čínská standardizovaný extrakt, lékořice lysá standardizovaný extrakt, zelený čaj standardizovaný extrakt.",
     "use": "Užívejte 1 polévkovou lžíci denně. Před použitím důkladně protřepejte; případný zákal nebo závoj není kvalitativní vadou přípravku. Před použitím důkladně protřepejte; případný zákal nebo závoj není kvalitativní vadou přípravku. Doporučení navíc: vzhledem k obsahu guarany a kofeinu užívejte nejlépe v první polovině dne.",
     "warning": "Doplněk stravy. Konzultujte užívání s lékařem při vysokém krevním tlaku nebo užívání antikoagulantů a léčiv zabraňujících srážení krevních destiček. Není vhodné pro děti do 3 let, těhotné a kojící ženy. Ukládejte mimo dosah dětí. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené dávkování. Po otevření spotřebujte do 3 měsíců.",
-    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu. Po otevření spotřebujte do 3 měsíců."
+    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu. Po otevření spotřebujte do 3 měsíců.",
+    "sourceImage": "assets/products/96.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 48,
@@ -83,7 +95,7 @@
     "category": "capsules",
     "price": 999.0,
     "inStock": true,
-    "image": "assets/products/48.webp",
+    "image": "assets/products-editorial/48.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/adaptogap---white-elephant/",
     "shortDescription": "ADAPTOGAP – White Elephant je kapslový doplněk stravy s bohatou rostlinnou a houbovou recepturou v jedné dóze. Hodí se pro zákazníky, kteří nechtějí jednoduchý jednosložkový základ a dávají přednost propracovanější kombinaci v kapslích.",
@@ -92,7 +104,10 @@
     "ingredients": "Řeřicha peruánská (Lepidium Meyenii) extrakt z kořene (10:1), ashwagandha (Withania somnifera) standardizovaný extrakt z kořene (withanolidy 5 %), schizandra čínská (Schizandra chinensis) standardizovaný extrakt z plodu (schizandriny 5 %), housenice čínská (Cordyceps sinensis) standardizovaný extrakt z celé houby (polysacharidy 30 %), lesklokorka lesklá – reishi (Ganoderma lucidum) standardizovaný extrakt z plodnice (polysacharidy 70 %), rozchodnice růžová (Rhodiola rosea) extrakt z kořene a stvolu (10:1), ženšen (Panax ginseng) standardizovaný extrakt z kořene (ginsenosidy 25 %), eleuterokok ostnitý (Eleutherococcus senticosus) standardizovaný extrakt z kořene (eleuterosidy 1 %), pupečník asijský – gotu kola (Centella asiatica) standardizovaný extrakt z celé rostliny (saponiny 40 %), lékořice lysá (Glycyrrhiza glabra) standardizovaný extrakt z kořene (glycyrrhizová kyselina 20 %), stearan hořečnatý (plnidlo), mikrokrystalická celulóza (plnidlo), vegetariánská kapsle.",
     "use": "Užívejte 1–3 tobolky denně, vždy nejpozději v dopoledních hodinách. Doporučujeme začít 1 tobolkou denně; pokud se neprojeví vedlejší účinky (poruchy spánku, hyperaktivita), je možné dávku postupně navyšovat až na 3 tobolky denně. Doporučené užívání v jednom cyklu jsou 3 měsíce, poté 1 měsíc pauza. Doplněk stravy. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené dávkování.",
     "warning": "Doplněk stravy. Nepřekračujte doporučené denní dávkování. Není vhodné pro děti do tří let, těhotné a kojící matky. Ukládat mimo dosah dětí. Nenahrazuje pestrou a vyváženou stravu. Nepoužívejte, pokud jste alergičtí na některou složku přípravku.",
-    "storage": "Uchovávejte v suchu při pokojové teplotě. Neskladujte na přímém slunci a v mrazu"
+    "storage": "Uchovávejte v suchu při pokojové teplotě. Neskladujte na přímém slunci a v mrazu",
+    "sourceImage": "assets/products/48.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 54,
@@ -102,7 +117,7 @@
     "category": "other",
     "price": 1111.0,
     "inStock": true,
-    "image": "assets/products/54.webp",
+    "image": "assets/products-editorial/54.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/beauty-of-cleopatra---white-elephant/",
     "shortDescription": "Beauty of Cleopatra je pleťový krém pro každodenní péči, když chceš, aby pleť po nanesení působila jemněji, vláčněji a příjemněji na dotek. Pečující základ doplňuje i příměs 24karátového zlata, která celé receptuře dodává výrazně prémiovější nádech.",
@@ -111,7 +126,10 @@
     "ingredients": "",
     "use": "Dle potřeby Naneste krém na čistou pokožku a jemně vetřete. Krém je vhodný k pravidelné péči o normální i zralou pleť.",
     "warning": "Nepoužívejte při známé přecitlivělosti na některou složku přípravku. Dermatologicky testováno.",
-    "storage": "Neskladujte na přímém slunci. Chraňte před mrazem."
+    "storage": "Neskladujte na přímém slunci. Chraňte před mrazem.",
+    "sourceImage": "assets/products/54.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 114,
@@ -121,7 +139,7 @@
     "category": "capsules",
     "price": 888.0,
     "inStock": true,
-    "image": "assets/products/114.webp",
+    "image": "assets/products-editorial/114.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/bezmigraan---white-elephant/",
     "shortDescription": "BezMigraan jsou tobolky určené pro dny, kdy vám běžný základ nestačí a hledáte komplexnější kombinaci látek v jedné kapsli. Jsou vhodnou volbou ve chvíli, kdy preferujete praktičtější a silněji koncipovaný doplněk pro běžný den i náročnější období.",
@@ -130,7 +148,10 @@
     "ingredients": "Řimbaba obecná (Pyrethrum parthenium) standardizovaný extrakt z natě (parthenolidy 1 %), Aquamin Mg – hydroxid hořečnatý (magnesium 35 %), vrba bílá (Salix alba) standardizovaný extrakt z kůry (salicin 15 %), vavřín vznešený (Laurus nobilis) standardizovaný extrakt z listu (10:1), guarana (Paullinia cupana) standardizovaný extrakt ze semen (kofein 22 %), meduňka lékařská (Melissa officinalis) extrakt z květu (5:1), mikrokrystalická celulóza (plnidlo), jinan dvoulaločný (Ginkgo biloba) extrakt z listu (20:1), česnek černý fermentovaný (Allium sativum L.) extrakt palice (10:1), B-komplex (vitamín B1 thiamin, vitamín B2 riboflavin, vitamín B3 niacin, vitamín B5 kyselina pantothenová, vitamín B6 pyridoxin, vitamín B9 kyselina listová, vitamín H biotin, vitamín B12 kyanokobalamin), zázvor lékařský (Zingiber officinalis) standardizovaný extrakt z kořene (gingerol 10 %), sporýš lékařský (Verbena officinalis L.) extrakt z listu (5:1), stearan hořečnatý (plnidlo), vegetariánská kapsle.",
     "use": "2–4 tobolky denně Vzhledem k obsahu guarany užívejte nejlépe v první polovině dne. Doplněk stravy. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené denní dávkování.",
     "warning": "Konzultujte užívání s lékařem při epilepsii, neurologických potížích, vysokém krevním tlaku nebo užívání antikoagulantů a léčiv zabraňujících srážení krevních destiček. Není vhodné pro děti do 3 let, těhotné a kojící ženy. Ukládejte mimo dosah dětí.",
-    "storage": "Uchovávejte v suchu při pokojové teplotě. Neskladujte na přímém slunci a v mrazu."
+    "storage": "Uchovávejte v suchu při pokojové teplotě. Neskladujte na přímém slunci a v mrazu.",
+    "sourceImage": "assets/products/114.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 90,
@@ -140,7 +161,7 @@
     "category": "elixirs",
     "price": 888.0,
     "inStock": true,
-    "image": "assets/products/90.webp",
+    "image": "assets/products-editorial/90.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/klouby-elixir---white-elephant/",
     "shortDescription": "Tekutá kloubní receptura pro každodenní režim, když od této kategorie čekáš víc než jen jednu hlavní látku. Glukosamin, chondroitin, MSM, kyselina hyaluronová a bylinné extrakty tu tvoří kombinaci, která působí obsahově poctivě a přehledně. Elixírová forma navíc usnadňuje zařazení do běžné rutiny.",
@@ -149,7 +170,10 @@
     "ingredients": "Glukózo-fruktózový sirup, glukosamin sulfát, šišák bajkalský (Scutellaria baicalensis) standardizovaný extrakt, chondroitin sulfát, MSM (methylsulfonylmethan), bršlice kozí noha (Aegopodium podagraria), přeslička rolní (Equisetum arvense) nať, rdesno ptačí (Polygonum aviculare) nať, kyselina hyaluronová.",
     "use": "Užívejte 1 polévkovou lžíci denně. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené dávkování. Před použitím důkladně protřepejte; případný zákal nebo závoj není kvalitativní vadou přípravku.",
     "warning": "",
-    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu."
+    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu.",
+    "sourceImage": "assets/products/90.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 63,
@@ -159,7 +183,7 @@
     "category": "capsules",
     "price": 888.0,
     "inStock": true,
-    "image": "assets/products/63.webp",
+    "image": "assets/products-editorial/63.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/klouby-tobolky---white-elephant/",
     "shortDescription": "Klouby FORTE jsou pro chvíle, kdy nechceš sahat po slabém základu a chceš mít v jedné kapsli opravdu nabitou kloubní kombinaci. Oproti běžným jednoduchým formulím působí robustněji a dává větší smysl tehdy, když od produktu čekáš víc než jen obyčejný kloubní doplněk.",
@@ -168,7 +192,10 @@
     "ingredients": "Glukosamin sulfát, šišák bajkalský (Scutellaria baicalensis) standardizovaný extrakt z kořene (baicalin 95 %), chondroitin sulfát, vitamín C (kyselina L-askorbová), MSM – methylsulfonylmethan, přeslička rolní (Equisetum arvense) standardizovaný extrakt z celé rostliny (křemík 7 %), vrba bílá (Salix alba) standardizovaný extrakt z kůry (salicin 15 %), kurkuma dlouhá (Curcuma longa) standardizovaný extrakt z kořene (kurkuminoidy 95 %), kadidlovník pilovitý (Boswellia serrata) standardizovaný extrakt z pryskyřice (kyselina boswellová 65 %), kozinec blanitý (Astragalus membranaceus) standardizovaný extrakt z kořene a stonku (polysacharidy 70 %), konopice (Galeopsis) standardizovaný extrakt z celé rostliny (10:1), rdesno ptačí (Polygonum aviculare) standardizovaný extrakt z nati (10:1), kyselina hyaluronová, pepřovník černý (Piper nigrum) standardizovaný extrakt z nezralých plodů (piperin 95 %), stearan hořečnatý rostlinného původu (plnidlo), tobolka (rostlinná želatina).",
     "use": "Užívejte 3 tobolky denně. Doplněk stravy. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené denní dávkování.",
     "warning": "Doplněk stravy. Není vhodné pro děti do 3 let, těhotné a kojící ženy. Ukládejte mimo dosah dětí. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené dávkování. Po otevření spotřebujte do 3 měsíců.",
-    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu. Po otevření spotřebujte do 3 měsíců."
+    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu. Po otevření spotřebujte do 3 měsíců.",
+    "sourceImage": "assets/products/63.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 72,
@@ -178,7 +205,7 @@
     "category": "capsules",
     "price": 999.0,
     "inStock": true,
-    "image": "assets/products/72.webp",
+    "image": "assets/products-editorial/72.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/kral---white-elephant/",
     "shortDescription": "Král – White Elephant je výraznější tobolkový doplněk stravy s kofeinem, guaranou, B-komplexem a rostlinnými extrakty. Hodí se pro zákazníky, kteří nechtějí jednoduchý základ, ale praktickou recepturu s jasně uvedeným množstvím aktivních látek.",
@@ -187,7 +214,10 @@
     "ingredients": "Guarana (Paulinia cupana) stand. ext. semeno D 10 %, ostropestřec mariánský (Silybum Marianum) stand. ext. semeno (silymarin 80 %), ženšen (Panax ginseng) stand. ext. kořen 25 %, kofein, klanopraška čínská (Schizandra chinensis) standard. ext. plod 5 %, vilcacora (Uncaria tomentosa) standard. ext. kořen 8:1, pupalkový olej extrakt, jinan dvoulaločný (Ginkgo biloba) stand. ext. list 20:1, maca peruánská (Lepidium Meyenii) stand. ext. kořene 10:1, Acai Berry (Euterpe oleracea) stand. ext. plod 4:1, Bacopa Monnieri stand. extr. list B D 20 %, B-komplex (Vitamin B1 – thiamin, Vitamin B2 – riboflavin, Vitamin B3 – kyselina nikotinová, Vitamin B5 – kyselina pantotenová, Vitamin B6 – pyridoxin, Vitamin B9 – kyselina listová, Vitamin B12 – kyanokobalamin, Vitamin H – D-biotin), stearan hořečnatý (plnidlo), želatinová kapsle.",
     "use": "Užívejte 2–3 tobolky denně. Vzhledem k obsahu kofeinu a guarany doporučujeme užívat spíše v první polovině dne. Doplněk stravy. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené denní dávkování.",
     "warning": "Doplněk stravy. Obsahuje kofein. Vzhledem k obsahu kofeinu a guarany doporučujeme užívat spíše v první polovině dne. Není vhodné pro děti do tří let, těhotné a kojící ženy. Ukládejte mimo dosah dětí. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené dávkování. Po otevření spotřebujte do 3 měsíců.",
-    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu. Po otevření spotřebujte do 3 měsíců."
+    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu. Po otevření spotřebujte do 3 měsíců.",
+    "sourceImage": "assets/products/72.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 99,
@@ -197,7 +227,7 @@
     "category": "elixirs",
     "price": 888.0,
     "inStock": true,
-    "image": "assets/products/99.webp",
+    "image": "assets/products-editorial/99.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/mocove-cesty-elixir---white-elephant/",
     "shortDescription": "Tekutý bylinný elixír pro každodenní režim, když chceš mít promyšlenou kombinaci v jedné lahvi. Močové cesty staví na receptuře, která se snadno užívá, působí uceleně a dává větší smysl než skládání několika samostatných doplňků.",
@@ -206,7 +236,10 @@
     "ingredients": "Glukózo-fruktózový sirup, rýžový olej, pupalkový olej LZS, lichořeřišnice větší standardizovaný extrakt, vrbovka standardizovaný extrakt, brusinka standardizovaný extrakt, bříza bělokorá standardizovaný extrakt, kotvičník zemní standardizovaný extrakt, spirulina standardizovaný extrakt, třapatka nachová / echinacea standardizovaný extrakt.",
     "use": "Užívejte 1 polévkovou lžíci denně. Před použitím důkladně protřepejte; případný zákal nebo závoj není kvalitativní vadou přípravku. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené dávkování. Před použitím důkladně protřepejte; případný zákal nebo závoj není kvalitativní vadou přípravku.",
     "warning": "Doplněk stravy. Konzultujte užívání s lékařem při epilepsii, autoimunitních onemocněních, hormonálně pozitivních nádorech, onemocnění ledvin nebo užívání antikoagulantů a léčiv zabraňujících srážení krevních destiček. Není vhodné pro děti do 3 let, těhotné a kojící ženy. Ukládejte mimo dosah dětí. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené dávkování. Po otevření spotřebujte do 3 měsíců.",
-    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu. Po otevření spotřebujte do 3 měsíců."
+    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu. Po otevření spotřebujte do 3 měsíců.",
+    "sourceImage": "assets/products/99.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 78,
@@ -216,7 +249,7 @@
     "category": "capsules",
     "price": 533.0,
     "inStock": true,
-    "image": "assets/products/78.webp",
+    "image": "assets/products-editorial/78.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/omega-3---white-elephant/",
     "shortDescription": "Omega 3 jsou kvalitní rybí olej s EPA a DHA pro každodenní doplnění omega-3 v jednoduché a srozumitelné podobě. Hodí se pro ty, kdo chtějí sáhnout po jasně postaveném produktu bez zbytečně složité receptury a mít omega-3 vyřešené jednou praktickou volbou.",
@@ -225,7 +258,10 @@
     "ingredients": "Rybí olej s obsahem 18 % EPA (kyselina eikosapentaenová) a 12 % DHA (kyselina dokosahexaenová), želatinová kapsle (hovězí želatina, glycerol, voda).",
     "use": "2 - 3 tobolky denně Doplněk stravy. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené dávkování.",
     "warning": "Není vhodné pro děti do 3 let, těhotné a kojící ženy. Ukládejte mimo dosah dětí.",
-    "storage": "Uchovávejte v suchu při pokojové teplotě. Neskladujte na přímém slunci a v mrazu."
+    "storage": "Uchovávejte v suchu při pokojové teplotě. Neskladujte na přímém slunci a v mrazu.",
+    "sourceImage": "assets/products/78.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 102,
@@ -235,7 +271,7 @@
     "category": "elixirs",
     "price": 888.0,
     "inStock": true,
-    "image": "assets/products/102.webp",
+    "image": "assets/products-editorial/102.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/prostata-elixir---white-elephant/",
     "shortDescription": "Tekutý elixír pro muže, kteří chtějí mít promyšlenou každodenní podporu v jedné lahvi. Sedne ve chvíli, kdy nechceš řešit několik samostatných doplňků a dáváš přednost pohodlnému užívání i širší receptuře.",
@@ -244,7 +280,10 @@
     "ingredients": "Glukózo-fruktózový sirup, ostropestřcový olej LZS, serenoa plazivá standardizovaný extrakt, vrbovka standardizovaný extrakt, lékořice lysá standardizovaný extrakt, citrát zinečnatý, kopřiva list.",
     "use": "Užívejte 1 polévkovou lžíci denně. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené dávkování. Před použitím důkladně protřepejte; případný zákal nebo závoj není kvalitativní vadou přípravku.",
     "warning": "Doplněk stravy. Konzultujte užívání s lékařem při vysokém krevním tlaku nebo užívání antikoagulantů a léčiv zabraňujících srážení krevních destiček. Není vhodné pro děti do 3 let, těhotné a kojící ženy. Ukládejte mimo dosah dětí. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené dávkování. Po otevření spotřebujte do 3 měsíců.",
-    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu. Po otevření spotřebujte do 3 měsíců."
+    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu. Po otevření spotřebujte do 3 měsíců.",
+    "sourceImage": "assets/products/102.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 66,
@@ -254,7 +293,7 @@
     "category": "capsules",
     "price": 888.0,
     "inStock": true,
-    "image": "assets/products/66.webp",
+    "image": "assets/products-editorial/66.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/prostata-tobolky---white-elephant/",
     "shortDescription": "Prostata tobolky jsou kapslová receptura pro muže, kteří chtějí mít přehledně sestavený produkt pro každodenní režim. V denní dávce spojují rostlinné extrakty, vitamin C a zinek ve formě citrátu zinečnatého.",
@@ -263,7 +302,10 @@
     "ingredients": "Serenoa plazivá standardizovaný extrakt (Serenoa repens) plod, vrbovka standardizovaný extrakt (Epilobium sp.) rostlina, lékořice lysá standardizovaný extrakt (Glycyrrhiza glabra) kořen, kopřiva dvoudomá standardizovaný extrakt (Urtica dioica) list, zinek (citrát zinečnatý), vitamin C (kyselina L-askorbová), stearan hořečnatý rostlinného původu (plnidlo), tobolka (rostlinná želatina).",
     "use": "Užívejte 2 tobolky denně. Délku užívání přizpůsobte účelu použití podle návodu. Doplněk stravy. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené denní dávkování.",
     "warning": "Doplněk stravy. Konzultujte užívání s lékařem při vysokém krevním tlaku nebo užívání antikoagulantů a léčiv zabraňujících srážení krevních destiček. Není vhodné pro děti do 3 let, těhotné a kojící ženy. Ukládejte mimo dosah dětí. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené dávkování. Po otevření spotřebujte do 3 měsíců.",
-    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu. Po otevření spotřebujte do 3 měsíců."
+    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu. Po otevření spotřebujte do 3 měsíců.",
+    "sourceImage": "assets/products/66.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 87,
@@ -273,7 +315,7 @@
     "category": "elixirs",
     "price": 888.0,
     "inStock": true,
-    "image": "assets/products/87.webp",
+    "image": "assets/products-editorial/87.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/srdce-a-cevy-elixir---white-elephant/",
     "shortDescription": "Srdce a cévy – elixír – White Elephant je tekutý bylinný doplněk stravy pro zákazníky, kteří dávají přednost hotové receptuře v lahvi před kapslemi nebo tabletami. Dávkuje se po polévkové lžíci a složení je přehledně rozepsané podle denní dávky.",
@@ -282,7 +324,10 @@
     "ingredients": "Glukózo-fruktózový sirup, lněný olej LZS, hroznový olej LZS, srdečník obecný standardizovaný extrakt, hloh ostrotrnný standardizovaný extrakt, goji berry standardizovaný extrakt, vrba kůra standardizovaný extrakt, česnek standardizovaný extrakt, zelený čaj standardizovaný extrakt.",
     "use": "Užívejte 1 polévkovou lžíci denně. Před použitím důkladně protřepejte Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené dávkování. Po otevření spotřebujte do 3 měsíců.",
     "warning": "Doplněk stravy. Konzultujte užívání s lékařem při užívání antikoagulantů nebo léčiv zabraňujících srážení krevních destiček. Není vhodné pro děti do 3 let, těhotné a kojící ženy. Ukládejte mimo dosah dětí. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené dávkování. Po otevření spotřebujte do 3 měsíců.",
-    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu."
+    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu.",
+    "sourceImage": "assets/products/87.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 60,
@@ -292,7 +337,7 @@
     "category": "capsules",
     "price": 888.0,
     "inStock": true,
-    "image": "assets/products/60.webp",
+    "image": "assets/products-editorial/60.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/srdce-a-cevy-tobolky---white-elephant/",
     "shortDescription": "Srdce a cévy FORTE jsou tobolky pro zákazníky, kteří chtějí sáhnout po výraznější rostlinné receptuře v praktické kapslové formě. Hodí se pro ty, kdo si hlídají složení, nechtějí tekutý elixír a dávají přednost jednoduchému dávkování bez odměřování.",
@@ -301,7 +346,10 @@
     "ingredients": "Srdečník obecný (Leonurus cardiaca) standardizovaný extrakt z natě (10:1), vrba bílá (Salix alba) standardizovaný extrakt z kůry (salicin 15 %), hloh ostrotrnný (Crataegus oxyacantha) standardizovaný extrakt z květu a listu (vitexin 1 %), andělika čínská (Angelica sinensis) standardizovaný extrakt z kořene (5:1), klanopraška čínská (Schizandra chinensis) standardizovaný extrakt z plodu (schizandrin 5 %), vinná réva (Vitis vinifera) standardizovaný extrakt ze slupky (resveratrol 10 %), jinan dvoulaločný (Ginkgo biloba) extrakt z listu (20:1), kozinec blanitý (Astragalus membranaceus) standardizovaný extrakt z kořene a stonku (polysacharidy 70 %), rakytník řešetlákový (Hippophae rhamnoides) standardizovaný extrakt z plodu (flavonoidy 10 %), stearan hořečnatý rostlinného původu (plnidlo), tobolka (rostlinná želatina).",
     "use": "Užívejte 2 tobolky denně. Doplněk stravy. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené denní dávkování.",
     "warning": "Doplněk stravy. Není vhodné pro děti do 3 let, těhotné a kojící ženy. Ukládejte mimo dosah dětí. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené dávkování.",
-    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu."
+    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu.",
+    "sourceImage": "assets/products/60.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 45,
@@ -311,7 +359,7 @@
     "category": "capsules",
     "price": 999.0,
     "inStock": true,
-    "image": "assets/products/45.webp",
+    "image": "assets/products-editorial/45.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/telomway---white-elephant/",
     "shortDescription": "TelomWay – White Elephant je propracovaná tobolková receptura s vitaminem D3, selenem, zinkem, hořčíkem, B-komplexem a rostlinnými extrakty. Hodí se pro zákazníky, kteří chtějí široce sestavený doplněk stravy pro pravidelné užívání v běžném režimu.",
@@ -320,7 +368,10 @@
     "ingredients": "Acerola (Malphigia emarginata) stand. extrakt z plodu (vitamín C 17 %), kozinec blanitý (Astragalus membranaceus) stand. extrakt z kořene a stonku (polysacharidy 70 %), bakopa drobnolistá (Bacopa monnieri) stand. extrakt z natě (bakopasidy 20 %), ostropestřec mariánský (Silybum Marianum) stand. extrakt ze semen (silymarin 80 %), Açai Berry (Euterpe oleracea) extrakt z plodu (4:1), rozchodnice růžová (Rhodiola rosea) extrakt z kořene a stvolu (10:1), schizandra čínská (Schizandra chinensis) stand. extrakt z plodu (schizandriny 5 %), zelený čaj (Camellia sinensis) stand. extrakt z listu (polyfenoly 50 %), kurkuma dlouhá (Curcuma longa) stand. extrakt z kořene (curcuminoidy 95 %), kustovnice čínská (Lycium chinense) stand. extrakt z plodu (polysacharidy 40 %), kávovník arabský (Coffea arabica) stand. extrakt z plodu (kyselina chlorogenová 50 %), ženšen (Panax ginseng) stand. extrakt z kořene (ginsenosidy 25 %), Aquamin Mg – hydroxid hořečnatý (magnesium hydroxide), B-komplex (B1 thiamin, B2 riboflavin, B3 niacin, B5 kyselina pantotenová, B6 pyridoxin, B9 kyselina listová, biotin H, B12 kyanokobalamin), resveratrol, pepřovník černý (Piper nigrum) stand. extrakt z nezralých plodů (piperin 95 %), zinek – citrát zinečnatý, selenem obohacené kvasnice, vitamín D3 (cholekalciferol), stearan hořečnatý (plnidlo), vegetariánská kapsle.",
     "use": "Užívejte 1–3 tobolky denně, vždy nejpozději v dopoledních hodinách. Doporučujeme začít 1 tobolkou denně; pokud se neprojeví vedlejší účinky (poruchy spánku, hyperaktivita), je možné dávku postupně navyšovat až na 3 tobolky denně. Doporučené užívání v jednom cyklu jsou 3 měsíce, poté 1 měsíc pauza. Užívejte vždy nejpozději v dopoledních hodinách. Doplněk stravy. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené dávkování.",
     "warning": "Doplněk stravy. Nepřekračujte doporučené denní dávkování. Není vhodné pro děti do tří let, těhotné a kojící matky. Ukládejte mimo dosah dětí. Nenahrazuje pestrou a vyváženou stravu. Nepoužívejte, pokud jste alergičtí na některou složku přípravku.",
-    "storage": "Uchovávejte v suchu při pokojové teplotě. Neskladujte na přímém slunci a v mrazu."
+    "storage": "Uchovávejte v suchu při pokojové teplotě. Neskladujte na přímém slunci a v mrazu.",
+    "sourceImage": "assets/products/45.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 57,
@@ -330,7 +381,7 @@
     "category": "capsules",
     "price": 1590.0,
     "inStock": true,
-    "image": "assets/products/57.webp",
+    "image": "assets/products-editorial/57.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/topenzym---white-elephant/",
     "shortDescription": "TopEnzym – White Elephant je kapslový doplněk stravy ve větším balení 120 kapslí. Hodí se pro zákazníky, kteří dávají přednost hotové kapslové formě před prášky, odměřováním a skládáním více samostatných produktů.",
@@ -339,7 +390,10 @@
     "ingredients": "Bromelain (ananas), papain (papaya), trypsin, chymotrypsin, pancreatin proteasa, amylasa, lipasa, peptidasa, rutin (Sophora japonica), koenzym Q-10, rhodiola standardizovaný extrakt, eleuterokok standardizovaný extrakt.",
     "use": "Podávejte minimálně 30 minut před jídlem. Prvních 5 dnů 3 kapsle 2–3x denně, dalších 5 dnů 2 kapsle 2–3x denně, poté udržovací dávka 1 kapsle 2–3x denně. Doplněk stravy. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené denní dávkování.",
     "warning": "Doplněk stravy. Není vhodné pro děti do tří let, těhotné a kojící ženy. Ukládejte mimo dosah dětí. Nenahrazuje pestrou a vyváženou stravu. Používejte dle návodu k použití. Neužívejte při snížené srážlivosti krve a při známé přecitlivělosti na některou složku přípravku.",
-    "storage": "Skladujte v suchu při pokojové teplotě. Chraňte před přímým slunečním zářením a mrazem."
+    "storage": "Skladujte v suchu při pokojové teplotě. Chraňte před přímým slunečním zářením a mrazem.",
+    "sourceImage": "assets/products/57.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 84,
@@ -349,7 +403,7 @@
     "category": "capsules",
     "price": 533.0,
     "inStock": true,
-    "image": "assets/products/84.webp",
+    "image": "assets/products-editorial/84.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/vitamin-c-extra---white-elephant/",
     "shortDescription": "Vitamin C Extra jsou tobolky pro dny, kdy chceš doplnit vitamin C pro normální funkci imunitního systému, snížení míry únavy a ochranu buněk před oxidativním stresem. Praktická volba pro ty, kteří chtějí vyšší dávku céčka v bohatší kapslové receptuře.",
@@ -358,7 +412,10 @@
     "ingredients": "Vitamín C (kyselina L-askorbová), acerola (Malpighia emarginata) standardizovaný extrakt z plodu (vitamín C 17 %), rakytník řešetlákový (Hippophae rhamnoides) standardizovaný extrakt z plodu (flavonoidy 10 %), růže šípková (Rosa canina) standardizovaný extrakt z plodu (vitamín C 10 %), stearan hořečnatý (plnidlo), koenzym Q10, želatinová kapsle (hovězí želatina, voda, barviva).",
     "use": "1–2 tobolky denně Doplněk stravy. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené denní dávkování.",
     "warning": "Není vhodné pro děti do 3 let, těhotné a kojící ženy. Ukládejte mimo dosah dětí.",
-    "storage": "Uchovávejte v suchu při pokojové teplotě. Neskladujte na přímém slunci a v mrazu."
+    "storage": "Uchovávejte v suchu při pokojové teplotě. Neskladujte na přímém slunci a v mrazu.",
+    "sourceImage": "assets/products/84.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 81,
@@ -368,7 +425,7 @@
     "category": "capsules",
     "price": 533.0,
     "inStock": true,
-    "image": "assets/products/81.webp",
+    "image": "assets/products-editorial/81.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/vitamin-d3-k2---white-elephant/",
     "shortDescription": "Vitamin D3 + K2 je jednoduchá každodenní volba v jedné tobolce. Vitamin D přispívá k udržení normálního stavu kostí a zubů, k normální činnosti svalů a k normální funkci imunitního systému.",
@@ -377,7 +434,10 @@
     "ingredients": "Vitamín K2 MCT olej 5 %, vitamín D3 cholekalciferol 1 mil IU, olivový olej, želatinová kapsle (hovězí želatina, glycerol, voda).",
     "use": "Užívejte 1 tobolku denně Doplněk stravy. Nenahrazuje pestrou stravu. Nepřekračujte doporučené dávkování.",
     "warning": "Není vhodné pro děti do 3 let, těhotné a kojící ženy. Ukládejte mimo dosah dětí. Není vhodné pro osoby s poruchami srážlivosti krve a pro osoby, které užívají léky na ředění krve.",
-    "storage": "Uchovávejte v suchu při pokojové teplotě. Neskladujte na přímém slunci a v mrazu."
+    "storage": "Uchovávejte v suchu při pokojové teplotě. Neskladujte na přímém slunci a v mrazu.",
+    "sourceImage": "assets/products/81.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 51,
@@ -387,7 +447,7 @@
     "category": "capsules",
     "price": 1111.0,
     "inStock": true,
-    "image": "assets/products/51.webp",
+    "image": "assets/products-editorial/51.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/zivot---white-elephant/",
     "shortDescription": "Život – White Elephant je tobolkový doplněk stravy se čtyřmi aktivními látkami v krátkém a přehledném složení. Hodí se pro zákazníky, kteří chtějí jednoduchou kapslovou formu bez míchání, odměřování a zbytečně složité kombinace.",
@@ -396,7 +456,10 @@
     "ingredients": "Rakytník řešetlákový (Hippophae rhamnoides Linn.) standardizovaný extrakt z plodu (flavonoidy 10 %), meruňka obecná (Prunus armeniaca L.) extrakt z pecky (10:1), beta 1,3 D-Glukan, lékořice lysá (Glycyrrhiza glabra) standardizovaný extrakt z kořene (glycyrhizová kyselina 20 %), želatinová kapsle (hovězí želatina, voda, barviva).",
     "use": "Užívejte 2 tobolky denně Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené dávkování.",
     "warning": "Doplněk stravy. Není vhodné pro děti do tří let, těhotné a kojící ženy. Ukládejte mimo dosah dětí. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené dávkování. Po otevření spotřebujte do 3 měsíců.",
-    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu. Po otevření spotřebujte do 3 měsíců."
+    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu. Po otevření spotřebujte do 3 měsíců.",
+    "sourceImage": "assets/products/51.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 236,
@@ -406,7 +469,7 @@
     "category": "capsules",
     "price": 399.0,
     "inStock": false,
-    "image": "assets/products/236.webp",
+    "image": "assets/products-editorial/236.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/ashwagandha-complex-60-kapsli---nupreme/",
     "shortDescription": "Bylinný komplex s ashwagandhou, Tulsi, rhodiolou, kurkumou a piperinem v praktické vegan kapsli. Promyšlená kombinace standardizovaných rostlinných extraktů pro období, kdy chcete mít po ruce čistě postavený doplněk bez složitého dávkování.",
@@ -415,7 +478,10 @@
     "ingredients": "Ashwagandha, Tulsi, veganská kapsle HMPC, Rhodiola, Kurkuma, Piperin.",
     "use": "1 kapsle denně; při zvýšené zátěži lze užívat 2 kapsle denně. Zapít vodou. Uživejte dle doporučeného dávkování.",
     "warning": "Doplněk stravy. Nemá schválené léčivé účinky a nejedná se o lék. Není určeno jako náhrada pestré stravy. Nepřekračujte uvedené dávkování. Není určeno dětem do 3 let. Těhotné a kojící ženy použití přípravku musí konzultovat se svým lékařem. Ukládejte mimo dosah malých dětí.",
-    "storage": ""
+    "storage": "",
+    "sourceImage": "assets/products/236.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 266,
@@ -425,7 +491,7 @@
     "category": "capsules",
     "price": 399.0,
     "inStock": false,
-    "image": "assets/products/266.webp",
+    "image": "assets/products-editorial/266.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/bioaktivni-b-complex-60-kapsli---nupreme/",
     "shortDescription": "Bioaktivní B-komplex v praktické vegan kapsli s vysokými dávkami vitaminů skupiny B. Vitaminy skupiny B přispívají k normálnímu energetickému metabolismu, normální činnosti nervové soustavy a ke snížení míry únavy a vyčerpání.",
@@ -434,7 +500,10 @@
     "ingredients": "Vegan kapsle HPMC, vitamíny B5, B1, B3, inositol, oxid křemičitý, vitamín B2, cholin, vitamín B6, B3, kyselina listová, biotin, vitamín B12.",
     "use": "1 kapsle denně Užívejte společně s jídlem, zapijte vodou. Neužívejte nalačno.",
     "warning": "Doplněk stravy. Není určeno jako náhrada pestré stravy. Nepřekračujte uvedené dávkování. Není určeno dětem. Těhotné a kojící ženy musí použití přípravku konzultovat se svým lékařem. Ukládejte mimo dosah dětí.",
-    "storage": ""
+    "storage": "",
+    "sourceImage": "assets/products/266.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 257,
@@ -444,7 +513,7 @@
     "category": "capsules",
     "price": 399.0,
     "inStock": false,
-    "image": "assets/products/257.webp",
+    "image": "assets/products-editorial/257.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/bioaktivni-koenzym-q10-mct-60-kapsli---nupreme/",
     "shortDescription": "Bioaktivní koenzym Q10 v praktické kapsli s MCT olejem z kokosového oleje. Čisté složení, veganská kapsle HPMC a 60 mg koenzymu Q10 v jedné denní dávce.",
@@ -453,7 +522,10 @@
     "ingredients": "MCT olej z kokosového oleje, vegan kapsle HPMC, bioaktivní koenzym Q10.",
     "use": "1 kapsle denně Užívejte společně s jídlem, zapijte vodou. Neužívejte nalačno.",
     "warning": "Doplněk stravy. Není určeno jako náhrada pestré stravy. Nepřekračujte uvedené dávkování. Není určeno dětem. Těhotné a kojící ženy musí použití přípravku konzultovat se svým lékařem. Ukládejte mimo dosah dětí.",
-    "storage": ""
+    "storage": "",
+    "sourceImage": "assets/products/257.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 242,
@@ -463,7 +535,7 @@
     "category": "capsules",
     "price": 399.0,
     "inStock": false,
-    "image": "assets/products/242.webp",
+    "image": "assets/products-editorial/242.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/bioaktivni-magnesium-safran-60-kapsli---nupreme/",
     "shortDescription": "Bioaktivní magnesium ve třech chelátových formách s vitaminem B6 a standardizovaným extraktem ze šafránu. Hořčík a vitamin B6 přispívají k normální činnosti nervové soustavy, normální psychické činnosti a ke snížení míry únavy a vyčerpání.",
@@ -472,7 +544,10 @@
     "ingredients": "bioaktivní hořčík, vegan kapsle HPMC, šafrán extrakt, vitamín B6.",
     "use": "1 kapsle 3× denně, zapít vodou. Rozdělte do 3 dávek během dne. Dodržte odstup minimálně 2 hodiny od léků a dalších doplňků stravy.",
     "warning": "Doplněk stravy. Není určeno jako náhrada pestré stravy. Nepřekračujte uvedené dávkování. Není určeno dětem. Ukládejte mimo dosah dětí.",
-    "storage": ""
+    "storage": "",
+    "sourceImage": "assets/products/242.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 269,
@@ -482,7 +557,7 @@
     "category": "capsules",
     "price": 399.0,
     "inStock": false,
-    "image": "assets/products/269.webp",
+    "image": "assets/products-editorial/269.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/bioaktivni-zinek-chelat-60-kapsli---nupreme/",
     "shortDescription": "Bioaktivní zinek v chelátové formě pro každodenní péči o imunitní systém, pokožku, vlasy a nehty. Promyšlená kombinace se selenem, mědí, kurkumou a piperinem v praktických kapslích pro ty, kteří chtějí minerální doplněk s přesahem do běžné vitality.",
@@ -491,7 +566,10 @@
     "ingredients": "Kurkuma extrakt, vegan kapsle HPMC, bioaktivní zinek, selen, měď, piperin extrakt.",
     "use": "1 kapsle v průběhu dne Užívejte společně s jídlem, zapijte vodou. Neužívejte nalačno.",
     "warning": "Doplněk stravy. Není určeno jako náhrada pestré stravy. Nepřekračujte uvedené dávkování. Není určeno dětem. Těhotné a kojící ženy musí použití přípravku konzultovat se svým lékařem. Ukládejte mimo dosah dětí.",
-    "storage": ""
+    "storage": "",
+    "sourceImage": "assets/products/269.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 290,
@@ -501,8 +579,8 @@
     "category": "capsules",
     "price": 550.0,
     "inStock": false,
-    "image": "assets/products/290.webp",
-    "imageMissing": true,
+    "image": "assets/products-editorial/290.webp",
+    "imageMissing": false,
     "url": "https://784006.myshoptet.com/cbd/",
     "shortDescription": "Pro ty, kteří chtějí přesně vědět, co jejich kapsle obsahuje. CBD staví na kombinaci tří konkrétně dávkovaných kanabinoidů, MCT základu a standardizovaných rostlinných extraktů v praktické kapslové formě.",
     "description": "CBD je určené pro ty, kteří chtějí zařadit kanabinoidní produkt do svého běžného režimu v jednoduché a nenápadné formě. Hodí se pro každodenní rutinu doma, v práci i na cestách, kdy nechcete používání doplňku přizpůsobovat okolnostem nebo mu věnovat zbytečně mnoho pozornosti. Ocení ho především zákazníci, kterým nevyhovuje klasická forma CBD olejů a hledají praktičtější alternativu. Tobolkové provedení umožňuje mít produkt kdykoliv po ruce a snadno ho začlenit mezi ostatní každodenní návyky. Celkové pojetí produktu míří na jednoduchost používání, přehlednost a pohodlí. Místo toho, aby se doplněk stal další věcí, kterou musíte během dne řešit, zapadne přirozeně do režimu, který už máte.",
@@ -510,7 +588,10 @@
     "ingredients": "MCT olej v prášku z kokosového oleje (kokosový olej, sodná sůl oktenylsukcinátu škrobu, maltodextrin), ashwagandha (Withania somnifera) standardizovaný extrakt z kořene 10:1 (withanolidy 5 %), kurkuma dlouhá (Curcuma longa) standardizovaný extrakt z kořene (curcuminoidy 95 %), CBD izolát (Cannabidiol ≥99 %), CBG izolát (Cannabigerol ≥95 %), CBC izolát (Cannabichromen ≥99 %), pepřovník černý (Piper nigrum) standardizovaný extrakt z nezralých plodů (piperin 95 %), mikrokrystalická celulóza (plnidlo), stearan hořečnatý (plnidlo), vegetariánská kapsle.",
     "use": "1–2 tobolky denně",
     "warning": "Doplněk stravy. Není vhodné pro děti do tří let, těhotné a kojící ženy. Ukládejte mimo dosah dětí. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené dávkování. Po otevření spotřebujte do 3 měsíců.",
-    "storage": "Uchovávejte v pokojové teplotě. Neskladujte na přímém slunci a v mrazu."
+    "storage": "Uchovávejte v pokojové teplotě. Neskladujte na přímém slunci a v mrazu.",
+    "sourceImage": "assets/products-source/290.jpeg",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 293,
@@ -520,8 +601,8 @@
     "category": "other",
     "price": 600.0,
     "inStock": false,
-    "image": "assets/products/293.webp",
-    "imageMissing": true,
+    "image": "assets/products-editorial/293.webp",
+    "imageMissing": false,
     "url": "https://784006.myshoptet.com/chlap/",
     "shortDescription": "",
     "description": "Popis produktu není dostupný",
@@ -529,7 +610,10 @@
     "ingredients": "",
     "use": "",
     "warning": "",
-    "storage": ""
+    "storage": "",
+    "sourceImage": "assets/products-source/293.jpeg",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 263,
@@ -539,7 +623,7 @@
     "category": "capsules",
     "price": 89.0,
     "inStock": false,
-    "image": "assets/products/263.webp",
+    "image": "assets/products-editorial/263.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/chlorella-spirulina-120-tablet-bio---nupreme/",
     "shortDescription": "BIO chlorella a spirulina v praktických tabletách pro jednoduché užívání bez prášku, míchání a výrazné zelené chuti. Čisté složení v poměru 50 : 50, bez přidaných látek, s chlorellou a spirulinou z ostrova Hainan.",
@@ -548,7 +632,10 @@
     "ingredients": "50 % sladkovodní řasa Chlorella vulgaris, 50 % sladkovodní sinice Spirulina, bez přidaných látek.",
     "use": "Dospělí: 6–12 tablet 2× denně. Děti od 3 let: 1–4 tablety denně Vhodné dlouhodobě / při zvýšené zátěži. Užívejte po dobu 3 měsíců nebo v období zvýšené zátěže. 15 minut před jídlem, zapít neperlivou vodou.",
     "warning": "Doplněk stravy. Není určeno jako náhrada pestré stravy. Nepřekračujte uvedené dávkování. Není určeno dětem do 3 let. Těhotné a kojící ženy použití přípravku musí konzultovat se svým lékařem. Ukládejte mimo dosah malých dětí.",
-    "storage": "Skladujte v uzavřeném obalu, v suchu, chladu a temnu při teplotě do 30 °C"
+    "storage": "Skladujte v uzavřeném obalu, v suchu, chladu a temnu při teplotě do 30 °C",
+    "sourceImage": "assets/products/263.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 275,
@@ -558,7 +645,7 @@
     "category": "capsules",
     "price": 99.0,
     "inStock": false,
-    "image": "assets/products/275.webp",
+    "image": "assets/products-editorial/275.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/chlorella-120-tablet-bio---nupreme/",
     "shortDescription": "BIO chlorella z řasy Chlorella vulgaris v praktických tabletách pro pohodlné užívání bez prášku, míchání a výrazné zelené chuti. Čisté složení bez přidaných látek, surovina z ostrova Hainan a kontrolovaná kvalita.",
@@ -567,7 +654,10 @@
     "ingredients": "sladkovodní řasa Chlorella vulgaris*, spirulina* až 1 %.",
     "use": "Dospělí: 6–12 tablet 2× denně. Děti od 3 let: 1–4 tablety denně. Dávku navyšujte postupně Užívejte po dobu 3 měsíců nebo v období zvýšené zátěže. 15 minut před jídlem, zapít neperlivou vodou. Doporučen zvýšený příjem tekutin.",
     "warning": "Doplněk stravy. Není určeno jako náhrada pestré stravy. Nepřekračujte doporučené denní dávkování. Není určeno dětem do 3 let. Těhotné a kojící ženy použití přípravku musí konzultovat se svým lékařem. Ukládejte mimo dosah dětí.",
-    "storage": "V uzavřeném obalu, v suchu, chladu a temnu."
+    "storage": "V uzavřeném obalu, v suchu, chladu a temnu.",
+    "sourceImage": "assets/products/275.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 260,
@@ -577,7 +667,7 @@
     "category": "capsules",
     "price": 499.0,
     "inStock": false,
-    "image": "assets/products/260.webp",
+    "image": "assets/products-editorial/260.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/cordyceps-extrakt-100-kapsli---nupreme/",
     "shortDescription": "Extrakt z fermentovaného mycélia Cordyceps sinensis v praktických želatinových kapslích. Houbový doplněk s obsahem polysacharidů, manitolu a adenosinu pro pohodlné užívání cordycepsu bez odměřování, míchání a výrazné houbové chuti.",
@@ -586,7 +676,10 @@
     "ingredients": "Extrakt z fermentovaného mycélia cordycepsu / Cordyceps sinensis v želatinových kapslích.",
     "use": "1–3 kapsle denně po dobu 2–3 měsíců v roce. dospělí 2–3 kapsle denně, děti 1 kapsle denně 20 minut před jídlem, zapít neperlivou vodou nebo čajem. Nepodávat před spaním",
     "warning": "Doplněk stravy. Není určeno jako náhrada pestré stravy. Nepřekračujte uvedené dávkování. Není určeno dětem do 3 let. Těhotné a kojící ženy musí použití přípravku konzultovat se svým lékařem. Ukládejte mimo dosah dětí. Po otevření spotřebujte do 3 měsíců. Dóza obsahuje také absorbéry vlhkosti, které nejsou určeny ke konzumaci. Nedoporučujeme užívat při akutních obtížích.",
-    "storage": "Uchovávejte v suchu a temnu při teplotě do 30 °C"
+    "storage": "Uchovávejte v suchu a temnu při teplotě do 30 °C",
+    "sourceImage": "assets/products/260.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 120,
@@ -596,7 +689,7 @@
     "category": "capsules",
     "price": 1699.0,
     "inStock": false,
-    "image": "assets/products/120.webp",
+    "image": "assets/products-editorial/120.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/duopack-telomway-adaptogap---white-elephant/",
     "shortDescription": "DuoPack TelomWay + ADAPTOGAP spojuje dva samostatné produkty White Elephant v jednom zvýhodněném balení. Hodí se pro zákazníky, kteří chtějí TelomWay i ADAPTOGAP pohromadě a bez skládání více doplňků zvlášť.",
@@ -605,7 +698,10 @@
     "ingredients": "",
     "use": "Užívejte oba přípravky podle jejich samostatného dávkování. U ADAPTOGAP i TELOMWAY začněte 1 tobolkou denně, užívejte nejpozději v dopoledních hodinách a při dobré toleranci navyšujte až na 3 tobolky denně. Doporučený cyklus jsou 3 měsíce, poté 1 měsíc pauza. Doplněk stravy. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené denní dávkování.",
     "warning": "Doplněk stravy. Nepřekračujte doporučené denní dávkování. Není vhodné pro děti do tří let, těhotné a kojící matky. Ukládejte mimo dosah dětí. Nenahrazuje pestrou a vyváženou stravu. Nepoužívejte, pokud jste alergičtí na některou složku přípravku.",
-    "storage": "Uchovávejte v suchu při pokojové teplotě. Neskladujte na přímém slunci a v mrazu."
+    "storage": "Uchovávejte v suchu při pokojové teplotě. Neskladujte na přímém slunci a v mrazu.",
+    "sourceImage": "assets/products/120.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 105,
@@ -615,7 +711,7 @@
     "category": "capsules",
     "price": 888.0,
     "inStock": false,
-    "image": "assets/products/105.webp",
+    "image": "assets/products-editorial/105.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/glukonormal---white-elephant/",
     "shortDescription": "GlukoNormal – White Elephant je dvoudílný tobolkový set PROSTABIL + SUPERPRENT pro pravidelný režim. Hodí se pro zákazníky, kteří chtějí dvě navazující receptury v jednom balení a dávají přednost hotové kombinaci bez skládání více samostatných doplňků.",
@@ -624,7 +720,10 @@
     "ingredients": "",
     "use": "Užívejte 2 tobolky denně přípravku PROSTABIL a 2 tobolky denně přípravku SUPERPRENT Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené dávkování.",
     "warning": "Doplněk stravy. Není vhodné pro děti do tří let, těhotné a kojící ženy. Ukládejte mimo dosah dětí. Nenahrazuje pestrou a vyváženou stravu. Nepřekračujte doporučené dávkování.",
-    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu. Po otevření spotřebujte do 3 měsíců."
+    "storage": "Uchovávejte při pokojové teplotě, neskladujte na přímém slunci a mrazu. Po otevření spotřebujte do 3 měsíců.",
+    "sourceImage": "assets/products/105.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 284,
@@ -634,7 +733,7 @@
     "category": "superfoods",
     "price": 149.0,
     "inStock": false,
-    "image": "assets/products/284.webp",
+    "image": "assets/products-editorial/284.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/golden-mylk-80-g-bio---nupreme/",
     "shortDescription": "Prémiová BIO směs na Golden Mylk s kurkumou, skořicí, zázvorem a černým pepřem. Voňavý kořeněný nápoj ve stylu Kurkuma Latte připravíte během chvilky – stačí rozmíchat v teplém rostlinném mléce a užít si jemně hřejivou chuť bez složité přípravy.",
@@ -643,7 +742,10 @@
     "ingredients": "BIO kurkumový prášek, BIO skořicový prášek, BIO černý pepřový prášek a BIO zázvorový prášek. Může obsahovat stopy lepku, arašídů a sezamu.",
     "use": "3 g / 2 čajové lžičky na 250 ml teplé tekutiny Smíchejte s 250 ml teplé tekutiny, ideálně rostlinného mléka, a vypijte",
     "warning": "Potravina. Může obsahovat stopy lepku, arašídů a sezamu.",
-    "storage": ""
+    "storage": "",
+    "sourceImage": "assets/products/284.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 248,
@@ -653,7 +755,7 @@
     "category": "capsules",
     "price": 499.0,
     "inStock": false,
-    "image": "assets/products/248.webp",
+    "image": "assets/products-editorial/248.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/hericium-extrakt-100-kapsli---nupreme/",
     "shortDescription": "Hericium extrakt z plodnic korálovce ježatého v praktických želatinových tobolkách. Doplněk stravy s obsahem polysacharidů pro pohodlné zařazení lví hřívy do každodenní rutiny – bez odměřování, míchání a výrazné houbové chuti.",
@@ -662,7 +764,10 @@
     "ingredients": "Extrakt z plodnice Hericium erinaceus (korálovec ježatý) v želatinových tobolkách.",
     "use": "2–3 kapsle denně 5 dní v týdnu užívat a 2 dny pauza, nebo 3 týdny užívat a 1 týden pauza. 20 minut před jídlem, zapít neperlivou vodou nebo čajem. Prášek lze vysypat z kapsle do nápoje a vypít",
     "warning": "Doplněk stravy. Není určeno jako náhrada pestré stravy. Nepřekračujte uvedené dávkování. Není určeno dětem do 3 let. Těhotné a kojící ženy musí použití přípravku konzultovat se svým lékařem. Ukládejte mimo dosah dětí. Po otevření spotřebujte do 3 měsíců. Dóza obsahuje také absorbéry vlhkosti, které nejsou určeny ke konzumaci. Nedoporučujeme užívat při akutních obtížích.",
-    "storage": "V uzavřeném originálním obalu, suchu, chladu a temnu"
+    "storage": "V uzavřeném originálním obalu, suchu, chladu a temnu",
+    "sourceImage": "assets/products/248.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 254,
@@ -672,7 +777,7 @@
     "category": "capsules",
     "price": 499.0,
     "inStock": false,
-    "image": "assets/products/254.webp",
+    "image": "assets/products-editorial/254.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/liposomal-curcumin-30-kapsli---nupreme/",
     "shortDescription": "Prémiový liposomální kurkumin v pohodlných vegan kapslích pro ty, kteří chtějí kurkumu bez oranžového prášku, hořké chuti a nepořádku při přípravě. Praktická kapslová forma pro každodenní rutinu – jednoduše s jídlem, bez míchání a bez typické kurkumové pachuti.",
@@ -681,7 +786,10 @@
     "ingredients": "Kurkuminoidy (z extraktu kurkuminu), LipoCellTech™ – lipozomální patentovaná směs: fosfolipidy kyseliny palmitoolejové, získané z NON GMO slunečnice, HPMC kapsle vegan.",
     "use": "1–2 kapsle denně Užívejte společně s jídlem, zapijte vodou",
     "warning": "Doplněk stravy. Není určeno jako náhrada pestré stravy. Nepřekračujte uvedené dávkování. Není určeno dětem. Ukládejte mimo dosah dětí.",
-    "storage": ""
+    "storage": "",
+    "sourceImage": "assets/products/254.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 230,
@@ -691,7 +799,7 @@
     "category": "capsules",
     "price": 499.0,
     "inStock": false,
-    "image": "assets/products/230.webp",
+    "image": "assets/products-editorial/230.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/liposomal-kyselina-hyaluronova-vitamin-c-30-kapsli---nupreme/",
     "shortDescription": "Prémiová kombinace kyseliny hyaluronové a liposomálního vitaminu C pro každodenní péči o pleť zevnitř. Pohodlná veganská kapsle bez prášků, sirupů a složité přípravy – vitamin C přispívá k normální tvorbě kolagenu pro normální funkci pokožky.",
@@ -700,7 +808,10 @@
     "ingredients": "Kyselina hyaluronová (hyaluronát sodný, vegansky fermentovaný), vitamin C (kyselina askorbová), LipoCellTech™ lipozomální patentovaná směs, HPMC kapsle vegan.",
     "use": "1 kapsle denně Užívejte během jídla, dostatečně zapijte vodou.",
     "warning": "Doplněk stravy. Není určeno jako náhrada pestré stravy. Nepřekračujte uvedené dávkování. Není určeno dětem. Ukládejte mimo dosah dětí.",
-    "storage": ""
+    "storage": "",
+    "sourceImage": "assets/products/230.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 281,
@@ -710,7 +821,7 @@
     "category": "capsules",
     "price": 299.0,
     "inStock": false,
-    "image": "assets/products/281.webp",
+    "image": "assets/products-editorial/281.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/liposomal-vitamin-c-30-kapsli---nupreme/",
     "shortDescription": "Moderní liposomální vitamin C v pohodlné kapsli pro pravidelné doplňování bez kyselé chuti, sirupu a skladování v lednici. Vitamin C přispívá k normální funkci imunitního systému, ochraně buněk před oxidativním stresem a snížení míry únavy a vyčerpání.",
@@ -719,7 +830,10 @@
     "ingredients": "Vitamin C (kyselina L-askorbová), LipoCellTech™ liposomální patentovaná směs, mikrokrystalická celulóza, HPMC kapsle vegan.",
     "use": "1 kapsle denně. Dle doporučení výrobce lze užívat 1–2 kapsle denně. Zapít vodou a užívat nejlépe s jídlem",
     "warning": "Doplněk stravy. Není určeno jako náhrada pestré stravy. Nepřekračujte uvedené dávkování. Není určeno dětem. Ukládejte mimo dosah dětí.",
-    "storage": "Uchovávejte při pokojové teplotě"
+    "storage": "Uchovávejte při pokojové teplotě",
+    "sourceImage": "assets/products/281.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 245,
@@ -729,7 +843,7 @@
     "category": "capsules",
     "price": 399.0,
     "inStock": false,
-    "image": "assets/products/245.webp",
+    "image": "assets/products-editorial/245.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/liposomal-vitamin-d3-k2-mg-30-kapsli---nupreme/",
     "shortDescription": "Lipozomální vitamin D3 + K2 s hořčíkem v praktické vegan kapsli. Vitamin D přispívá k normální funkci imunitního systému, vitamin K k udržení normálního stavu kostí a hořčík ke snížení míry únavy a vyčerpání.",
@@ -738,7 +852,10 @@
     "ingredients": "Magnesium citrát, LipoCellTech™ lipozomální patentovaná směs: fosfolipidy kyseliny palmitoolejové, získané z NON GMO slunečnice, vitamín K2 (MK-7 Menachinon), vitamín D3 (Cholekalciferol), HPMC kapsle vegan.",
     "use": "2–3 kapsle týdně. V případě zvýšené potřeby 1 kapsle denně. Užívejte dle doporučeného dávkování. Kapsli zapijte vodou a užívejte s jídlem.",
     "warning": "Doplněk stravy. Není určeno jako náhrada pestré stravy. Nepřekračujte uvedené dávkování. Není určeno dětem. Ukládejte mimo dosah dětí.",
-    "storage": ""
+    "storage": "",
+    "sourceImage": "assets/products/245.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 278,
@@ -748,7 +865,7 @@
     "category": "superfoods",
     "price": 699.0,
     "inStock": false,
-    "image": "assets/products/278.webp",
+    "image": "assets/products-editorial/278.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/mlady-jecmen-premium-200-g-bio---nupreme/",
     "shortDescription": "Prémiový BIO mladý ječmen ze 100 % sušené šťávy z mladých listů v jemném RAW prášku. Čistý zelený nápoj pro každodenní rutinu – vegan, GF, bez sladidel a aromat, s vitaminem C a B6, které přispívají k normální funkci imunitního systému a ke snížení míry únavy a vyčerpání.",
@@ -757,7 +874,10 @@
     "ingredients": "100 % sušená šťáva z listů mladého ječmene.",
     "use": "Dospělí: 1 zarovnaná čajová lžička (cca 1,5 g) 2× denně nalačno. Děti od 3 let: 1/2 zarovnané čajové lžičky (cca 0,75 g) 1× denně Rozmíchat ve 150 ml chladné neperlivé vody a vypít 15–20 minut před jídlem. U dětí rozmíchat ve 100 ml vody",
     "warning": "Doplněk stravy. Není určeno jako náhrada pestré stravy. Nepřekračujte denní dávkování. Není určeno dětem do 3 let. Těhotné a kojící ženy musí použití přípravku konzultovat se svým lékařem. Ukládejte mimo dosah dětí. Po otevření spotřebujte do 3 měsíců. Dóza obsahuje také absorbéry vlhkosti, které nejsou určeny ke konzumaci.",
-    "storage": "Skladujte na chladném, temném a suchém místě"
+    "storage": "Skladujte na chladném, temném a suchém místě",
+    "sourceImage": "assets/products/278.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 287,
@@ -767,8 +887,8 @@
     "category": "capsules",
     "price": 999.0,
     "inStock": false,
-    "image": "assets/products/287.webp",
-    "imageMissing": true,
+    "image": "assets/products-editorial/287.webp",
+    "imageMissing": false,
     "url": "https://784006.myshoptet.com/pamet/",
     "shortDescription": "Když pracovní tempo, studium nebo náročný den zaměstnávají hlavu naplno. Paměť je komplexní doplněk vytvořený pro každodenní mentální zátěž a chvíle, kdy potřebujete udržet pozornost i tempo.",
     "description": "Jsou dny, kdy nestačí jen stihnout všechny úkoly. Potřebujete se soustředit na práci, zpracovávat nové informace, rozhodovat se a udržet pozornost i ve chvíli, kdy máte za sebou několik náročných hodin. Paměť je určená právě pro taková období. Hodí se při intenzivním pracovním tempu, studiu, přípravě na zkoušky i všude tam, kde je hlava během dne neustále v permanenci. Dává smysl jako součást každodenní rutiny lidí, kteří chtějí věnovat mentální kondici stejnou pozornost jako ostatním oblastem svého životního stylu. Nejde přitom jen o samotné zapamatování. Náročný den vyžaduje soustředění, schopnost pracovat s informacemi i dostatek mentální výdrže – a právě na tyto oblasti navazují konkrétní benefity uvedené níže.",
@@ -776,7 +896,10 @@
     "ingredients": "Bakopa drobnolistá (Bacopa monnieri) standardizovaný extrakt z natě (bakopasidy 20 %), pupečník asijský (Centella asiatica L. Urb.) standardizovaný extrakt z celé rostliny (40 % saponiny), hydroxid hořečnatý, jinan dvoulaločný (Ginkgo biloba L.) extrakt z listů (20:1), B-komplex (Vitamin B1 Thiamin, Vitamin B2 Riboflavin, Vitamin B3 Niacin, Vitamin B5 Kyselina pantotenová, Vitamin B6 Pyridoxin, Vitamin B9 Kyselina listová, Vitamin H Biotin, Vitamin B12 Kyanokobalamin), stearan hořečnatý (plnidlo), zinkem obohacené kvasnice, pepřovník černý (Piper nigrum) standardizovaný extrakt z nezralých plodů (piperin 95 %), vegetariánská kapsle.",
     "use": "2 tobolky denně",
     "warning": "Doplněk stravy. Nepřekračujte doporučené denní dávkování. Není vhodné pro děti, těhotné a kojící ženy. Ukládejte mimo dosah dětí. Doplněk stravy není náhradou pestré stravy. Nepoužívejte, pokud jste alergičtí na některou složku přípravku. Může snižovat srážlivost krve.",
-    "storage": "Uchovávejte v suchu při pokojové teplotě. Neskladujte na přímém slunci a v mrazu."
+    "storage": "Uchovávejte v suchu při pokojové teplotě. Neskladujte na přímém slunci a v mrazu.",
+    "sourceImage": "assets/products-source/287.jpeg",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 233,
@@ -786,7 +909,7 @@
     "category": "capsules",
     "price": 499.0,
     "inStock": false,
-    "image": "assets/products/233.webp",
+    "image": "assets/products-editorial/233.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/premium-collagen-peptides-205-g---nupreme/",
     "shortDescription": "Každodenní kolagenový nápoj pro jednoduchou péči o pokožku a vlasy zevnitř. Prášek stačí rozmíchat ve vodě – bez příchutě, sladidel a aromat; vitamin C přispívá k normální tvorbě kolagenu pro normální funkci pokožky a biotin k udržení normálního stavu vlasů.",
@@ -795,7 +918,10 @@
     "ingredients": "Peptan B 2000 (hydrolizovaný hovězí kolagen), vitamin C, kyselina hyaluronová, biotin (vitamin B7).",
     "use": "Denně 8,2 g (2 odměrky) Rozmíchejte v 250 ml chladné neperlivé vody a vypijte",
     "warning": "Doplněk stravy. Není určeno jako náhrada pestré stravy. Nepřekračujte uvedené dávkování. Není určeno dětem do 3 let. Těhotné a kojící ženy musí použití přípravku konzultovat se svým lékařem. Ukládejte mimo dosah dětí.",
-    "storage": ""
+    "storage": "",
+    "sourceImage": "assets/products/233.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 239,
@@ -805,7 +931,7 @@
     "category": "capsules",
     "price": 499.0,
     "inStock": false,
-    "image": "assets/products/239.webp",
+    "image": "assets/products-editorial/239.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/reishi-extrakt-100-kapsli---nupreme/",
     "shortDescription": "Reishi extrakt z plodnice lesklokorky lesklé v praktických kapslích. Spolehlivý doplněk stravy s obsahem polysacharidů a triterpenů, který je ideální pro každého, kdo chce reishi užívat pohodlně a bez nutnosti dávkování práškové formy.",
@@ -814,7 +940,10 @@
     "ingredients": "Extrakt z plodnice reishi (Ganoderma lucidum) v želatinových kapslích.",
     "use": "2–3 kapsle denně 5 dní v týdnu užívat a 2 dny pauza, nebo 3 týdny užívat a 1 týden pauza. 20 minut před jídlem, zapít neperlivou vodou nebo čajem. Prášek lze vysypat z kapsle do nápoje a vypít; prášek má hořkou chuť",
     "warning": "Doplněk stravy. Není určeno jako náhrada pestré stravy. Nepřekračujte uvedené dávkování. Není určeno dětem do 3 let. Těhotné a kojící ženy musí použití přípravku konzultovat se svým lékařem. Ukládejte mimo dosah dětí. Po otevření spotřebujte do 3 měsíců. Dóza obsahuje také absorbéry vlhkosti, které nejsou určeny ke konzumaci. Nedoporučujeme užívat při akutních obtížích.",
-    "storage": ""
+    "storage": "",
+    "sourceImage": "assets/products/239.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 272,
@@ -824,7 +953,7 @@
     "category": "capsules",
     "price": 99.0,
     "inStock": false,
-    "image": "assets/products/272.webp",
+    "image": "assets/products-editorial/272.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/spirulina-120-tablet-bio---nupreme/",
     "shortDescription": "BIO spirulina v praktických tabletách ze sladkovodní sinice pěstované na ostrově Hainan. Čisté složení bez přidaných látek a pojiv pro jednoduché zařazení zelené potraviny do každodenního jídelníčku – bez prášku, míchání a odměřování.",
@@ -833,7 +962,10 @@
     "ingredients": "Sladkovodní sinice spirulina, sladkovodní řasa chlorella* až 1 %.",
     "use": "Dospělí: 7–12 tablet 2× denně. Děti od 3 let: 1–4 tablety denně Užívejte po dobu 3 měsíců nebo v období zvýšené zátěže. Ideálně 15 minut před jídlem, zapít neperlivou vodou",
     "warning": "Doplněk stravy. Není určeno jako náhrada pestré stravy. Nepřekračujte uvedené dávkování. Není určeno dětem do 3 let. Těhotné a kojící ženy použití přípravku musí konzultovat se svým lékařem. Ukládejte mimo dosah malých dětí.",
-    "storage": ""
+    "storage": "",
+    "sourceImage": "assets/products/272.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 251,
@@ -843,7 +975,7 @@
     "category": "superfoods",
     "price": 699.0,
     "inStock": false,
-    "image": "assets/products/251.webp",
+    "image": "assets/products-editorial/251.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/super-greens-200-g-bio---nupreme/",
     "shortDescription": "Prémiová BIO zelená směs s mladým ječmenem v RAW kvalitě, chlorellou a spirulinou. Pistáciová příchuť zjemňuje typicky zelenou chuť, takže Super Greens snadno zařadíte do každodenní rutiny – vegan, bez lepku a bez složité přípravy.",
@@ -852,7 +984,10 @@
     "ingredients": "BIO sušená šťáva z listů mladého ječmene v RAW kvalitě, BIO sladkovodní řasa chlorella, BIO sladkovodní sinice spirulina, přírodní aroma pistácie, steviol-glykosidy (sladidlo).",
     "use": "Nalačno 2× denně zarovnaná odměrka Rozmíchejte v 250 ml chladné neperlivé vody a vypijte",
     "warning": "Doplněk stravy. Není určeno jako náhrada pestré stravy. Nepřekračujte uvedené dávkování. Není určeno dětem do 3 let. Těhotné a kojící ženy musí použití přípravku konzultovat se svým lékařem. Ukládejte mimo dosah dětí. Po otevření spotřebujte do 3 měsíců. Dóza obsahuje také absorbéry vlhkosti, které nejsou určeny ke konzumaci.",
-    "storage": ""
+    "storage": "",
+    "sourceImage": "assets/products/251.webp",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   },
   {
     "id": 296,
@@ -862,7 +997,7 @@
     "category": "capsules",
     "price": 699.0,
     "inStock": false,
-    "image": "assets/products/296.webp",
+    "image": "assets/products-editorial/296.webp",
     "imageMissing": false,
     "url": "https://784006.myshoptet.com/synbiotika/",
     "shortDescription": "Když chcete mít živé kultury jednoduše po ruce každý den. Synbiotika nabízí praktickou kapslovou formu s 11 druhy živých kultur a inulinem, kterou snadno zařadíte do běžného režimu doma, v práci i na cestách.",
@@ -871,6 +1006,9 @@
     "ingredients": "Inulin, Lactobacillus acidophilus, Bifidobacterium lactis, Lactobacillus rhamnosus, Bifidobacterium breve, Lactobacillus bulgaricus, Lactobacillus plantarum, Lactococcus lactis, Lactobacillus casei, Bifidobacterium bifidum, Streptococcus thermophilus, Lactobacillus paracasei, stearan hořečnatý (plnidlo), želatinová tobolka.",
     "use": "1–2 tobolky denně Užívejte společně s jídlem a dostatečně zapíjejte. Je možné užívat pravidelně a dlouhodobě.",
     "warning": "Doplněk stravy. Nepřekračujte doporučené denní dávkování. Není vhodné pro děti do 3 let, těhotné a kojící matky. Ukládejte mimo dosah dětí. Nenahrazuje pestrou a vyváženou stravu. Výrobek nepoužívejte, pokud jste alergičtí na některou složku přípravku.",
-    "storage": "Uchovávejte v suchu při pokojové teplotě. Neskladujte na přímém slunci a v mrazu."
+    "storage": "Uchovávejte v suchu při pokojové teplotě. Neskladujte na přímém slunci a v mrazu.",
+    "sourceImage": "assets/products-source/296.jpeg",
+    "imageGenerated": true,
+    "imageStyle": "editorial-square-v1"
   }
 ]
