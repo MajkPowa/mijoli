@@ -18,7 +18,7 @@ Then open http://localhost:4173/.
 
 Push changes to `main`. GitHub Actions checks the JavaScript and publishes `dist/` to GitHub Pages. No build step or package installation is required.
 
-The repository contains the website, its image assets and publishing configuration. Botanical campaign photographs were created with ImageGen. Product thumbnails are ImageGen edits of the source store's real packaging, with a consistent square composition and natural light. Catalog content describes the source store's products; campaign jars do not represent a specific product package.
+The repository contains the website, its image assets and publishing configuration. Botanical campaign photographs were created with ImageGen. Product thumbnails are ImageGen edits of the source store's real packaging, with a consistent square composition and natural light. Catalog content describes the source store's products. The homepage hero features real catalog packaging.
 
 ## Mobile experience
 
@@ -43,3 +43,9 @@ PNG masters and optimized WebP files live in `dist/assets/products-editorial/`. 
 The complete prompt set and image lineage are recorded in `image-prompts-products.json`. Product identity, label names and unusual package forms were reviewed against the inputs. Prices, stock and checkout behavior are unchanged.
 
 The [photography review page](https://majkpowa.github.io/mijoli/product-photos.html) shows all 48 images, offers PNG downloads and switches between the new photographs and source images. Every output is 1254 × 1254; the optimized WebP collection totals approximately 5.24 MB.
+
+## Version 2.1.1 — real products in the hero
+
+The desktop and mobile hero now show actual in-stock products from the catalog: Imunita (129), ADAPTOGAP (48) and Vitamin D3 K2 (81). All three ImageGen edits use the corresponding product photographs as packaging references. Separate landscape, tablet and portrait compositions keep the text area clear and preserve labels and complete packages across phone, tablet and desktop layouts.
+
+Final assets: `dist/assets/seed/hero-products-wide.{png,webp}`, `dist/assets/seed/hero-products-tablet.{png,webp}` and `dist/assets/seed/hero-products-portrait.{png,webp}`. Exact prompts and reference paths: `image-prompts-hero-products.json`.

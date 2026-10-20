@@ -1,0 +1,68 @@
+{
+  "version": "2.1.1",
+  "date": "2026-10-20",
+  "tool": "built-in image_gen",
+  "productIds": [
+    129,
+    48,
+    81
+  ],
+  "landscape": {
+    "version": "2.1.1",
+    "tool": "built-in image_gen",
+    "orientation": "landscape",
+    "input": [
+      "dist/assets/seed/hero-wide.webp",
+      "dist/assets/products-editorial/129.webp",
+      "dist/assets/products-editorial/48.webp",
+      "dist/assets/products-editorial/81.webp"
+    ],
+    "productIds": [
+      129,
+      48,
+      81
+    ],
+    "prompt": "Use case: compositing / precise-object-edit.\nAsset type: landscape photographic ecommerce homepage hero, 1536x1024.\nInput images: Image1 is the existing hero SCENE AND COMPOSITION edit target. Images2,3,4 are exact actual product packaging inserts: White Elephant IMUNITA blue-label brown bottle, White Elephant ADAPTOGAP silver tin with teal label, White Elephant Vitamin D3 K2 white floral-label dark bottle.\nPrimary request: replace ALL THREE fictional unlabelled green frosted jars in Image1 with ONLY these EXACT three real sale products from Images2–4. Preserve the bright natural curtain/window/oak tabletop editorial atmosphere.\nPackaging invariants: use the actual bottle/tin shapes, original materials, exact cap type, brand \"White Elephant\", label designs/illustrations, label colors and printed names. IMUNITA retains blue illustrated woman/waterfall label and black cap. ADAPTOGAP retains turquoise/silver cylindrical metal tin and silver lid. Vitamin D3 K2 retains white botanical/floral D3K2 label, dark glass and black lid. Never invent, redesign, recolor, duplicate, or merge product packaging. Every primary label must face camera and remain readable.\nComposition: refined realistically lit still life. LEFT53% of the image must remain empty, bright offwhite curtain and uncluttered pale tabletop for HTML headline/paragraph/buttons. Place the three actual packages in a compact balanced cluster in the RIGHT half, fully inside horizontal53–96% and vertical25–79% of source image. ALL caps and bases fully visible, plenty of safe edges. Gentle depth staggering without hiding product labels. This image will be vertically cropped into a panoramic640px-high web hero, so do not put product bases near bottom of source. Use natural contact shadows and faithful glass/metal surfaces. Camera eye-level with subtle threequarter perspective.\nBackground: airy warm white curtains with diffuse daylight from upper left, pale oak tabletop, understated blurred greenery only at far upperright. Remove other vessel props such as the vase and bowl so there are NO OTHER jars, bottles, products or packaging in scene.\nConstraints: photo only, no webpage/UI or standalone added text, no new logos/claims, no watermark, no fictional frosted jars. Printed original package labels are essential and must be preserved. Landscape3:2 output.",
+    "generationSourceFile": "exec-254382e2-0360-4763-819e-3a2b85c994a5.png",
+    "finalPng": "dist/assets/seed/hero-products-wide.png",
+    "finalWebp": "dist/assets/seed/hero-products-wide.webp"
+  },
+  "tablet": {
+    "tool": "built-in image_gen",
+    "input": "dist/assets/seed/hero-products-wide.webp",
+    "productIds": [
+      129,
+      48,
+      81
+    ],
+    "prompt": "Use case: compositing / precise-object-edit.\nAsset type: responsive tablet ecommerce hero photograph, SQUARE 1:1 1536x1536.\nInput image is the approved landscape hero with three EXACT real products. Keep this same actual scene, warm oak table, white curtains/daylight and ONLY these same three product packages. Adapt composition for a square tablet image with clean left space.\nInvariants: original White Elephant Imunita blue bottle, silver turquoise ADAPTOGAP tin, white floral Vitamin D3 K2 dark bottle. Preserve exact labels, original brand/type/artwork/colors, caps, shapes, proportions and materials. No fictional or additional packaging, no logo or text outside existing printed labels.\nComposition REQUIRED: left52% is clean bright offwhite background for webpage text. All three actual packages compact in the RIGHT half, fully within x52–90% of source. Rear Imunita and D3K2 may have caps as high as y43%, but their x positions must be greater than68%. Place the shorter ADAPTOGAP tin in front on the left of group, with its TOP BELOW y62% of source. ALL product bases must be above y86%. Keep whole caps and bases visible. Gentle depth staggering while primary label names remain clearly visible, no label obstruction. Plenty of safe edges for a responsive600–1000px-wide hero. Foreground table begins around lowerhalf. Avoid excessive empty foreground. Product scale and placement matter: tablet HTML text/button occupies the left area through y55%, so the leftmost tin must not rise into it.\nLighting and setting: same airy white curtain, pale oak, soft morning sun, natural contact shadows, tasteful upperright greenery. Photo only. No UI, no added typography, no watermark. Output a square1536x1536 image, not landscape.",
+    "generationSourceFile": "exec-da68cc9a-655b-40d4-9d3b-7ff04df2f6d4.png",
+    "finalPng": "dist/assets/seed/hero-products-tablet.png",
+    "finalWebp": "dist/assets/seed/hero-products-tablet.webp"
+  },
+  "portrait": {
+    "tool": "built-in image_gen",
+    "use_case": "compositing",
+    "product_ids": [
+      129,
+      48,
+      81
+    ],
+    "references": [
+      "dist/assets/seed/hero-portrait.webp",
+      "dist/assets/products-editorial/129.webp",
+      "dist/assets/products-editorial/48.webp",
+      "dist/assets/products-editorial/81.webp"
+    ],
+    "initial_prompt": "Use case: compositing.\nAsset type: portrait mobile ecommerce hero photograph, 1024x1536.\nPrimary request: Edit image 1, replacing every fictional frosted green jar with the exact three actual products shown in images 2, 3 and 4. This is the actual store's product offer. No other supplement container may remain.\nInput images: Image 1 is the scene/edit target and lighting/composition reference. Image 2 is exact White Elephant IMUNITA blue-label dark bottle. Image 3 is exact White Elephant ADAPTOGAP turquoise-blue label silver metal tin. Image 4 is exact White Elephant Vitamin D3 K2 white botanical label dark bottle. Images 2–4 are identity-locked product inserts, not inspiration for new packaging.\nScene/backdrop: Quiet bright morning daylight through an offwhite sheer curtain onto an oak table, the same natural elegant scene as image 1. Pale soft curtains remain the predominant background.\nComposition/framing: Portrait 2:3, 1024x1536. Mandatory top 55 percent of the entire image is uninterrupted bright warm offwhite curtain negative space for live website text and buttons. No objects or leaves in this upper 55 percent. Put all three products in a compact still life below this: package tops no higher than 58 percent from top; package bases at about 88 percent from top; all packages entirely within horizontal x=16 to x=84 percent. Imunita slightly left behind, ADAPTOGAP in middle, D3K2 slightly right forward. All full silhouettes, lids and bases visible and separated enough to recognize each label. Entire cluster remains inside middle 70 percent horizontal safearea. Table and soft linen at lower margin. Small blurred plant can remain only far lower left, without crossing products. Cluster looks natural and premium, and fits below a mobile webpage's text.\nLighting: match image 1 soft directional daylight, coherent contact shadows, tactile wood and brushed tin, real opaque dark bottle plastic, no translucent frosted replacement bottles.\nIdentity invariants: Preserve each product's exact silhouette, proportions, black ribbed screw cap or silver flat metal lid, exact material, exact original label color, brand typography, illustration and layout. Faithfully reproduce the readable principal printed names: \"White Elephant\", \"IMUNITA\", \"ADAPTOGAP\", and the D3 K2 botanical design. Do not invent, simplify, redesign or relabel any packaging. Do not transfer the green jar aesthetic onto the actual products. Only re-light/place these exact existing packages. Exactly one of each of the three products, three packages total.\nNo UI, no overlaid typography, no extra captions, no watermark, no generic jars, no invented brands, no foreground foliage on labels.",
+    "refinement_prompt": "Use case: precise-object-edit.\nEdit target is image1, the newly generated mobile hero with the three REAL White Elephant packages. Supporting images2,3,4 lock their exact packaging identity.\nMake a single layout adjustment: reduce the entire three-product stilllife group to 82% of its present size, and translate it downward enough that the TOP of the highest bottle lid is exactly 60% of canvas height, and BOTTOM of the lowest package base is about 89% of canvas height. The final entire product group must fit fully within canvas x23%–86%, y60%–89%, with three separate recognizable full product packages. Keep all three packages at same relative sizes/positions as current, with Imunita rear-left, ADAPTOGAP front-middle and Vitamin D3K2 front-right. Maintain realistic matching table contact shadows.\nKeep the exact current bright curtain, oak table, light and camera perspective unchanged; extend/reveal the same curtain and table behind where the larger packages were. Upper 58% must be clean bright curtain only, except a little blurred leaf at far extremeleft below55%, so website headline/body/buttons can overlay.\nCritical invariants: change ONLY product group position and scale, not identity. Preserve sharp principal brand/names label typography, original exact illustrations and colors; black ribbed bottle caps, silver turquoise ADAPTOGAP tin. Do not make frosted green generic jars, no package redesign. No text overlays or watermark. Photorealistic 1024x1536 portrait.",
+    "phone_clearance_prompt": "Use case: precise-object-edit.\nEdit only Image1, an existing 1024×1536 mobile hero photograph. The three actual products and scene already look correct. Fix ONLY their position to make room for a website button above them.\nMANDATORY precise layout adjustment: Translate the ENTIRE cluster of THREE packages 130 pixels DOWN and 70 pixels LEFT in this 1024×1536 image. Do NOT change individual package sizes, proportions, or relative positions. Current topmost cap is around y827; in final image its top must be at y960 or lower, or at least 62.5% from the top. No part of any product may appear above y955. Lowest base final around y1380, about90% fromtop. Final cluster fits within x240–800 and y960–1390. Same arrangement: Imunita rearleft, ADAPTOGAP frontmiddle, VitaminD3K2 frontright.\nReplace the packages' previous locations with the same curtain/table background. Extend existing wooden tabletop naturally to new contact points; coherent physical shadows below packages. Upper 62% is empty, bright cream curtain; there must be no bottle/cap/label inside the upper62%.\nIdentity lock: retain exactly current three product packages, black Imunita bottle with blue \"White Elephant\" \"IMUNITA\" label and landscape/woman art; turquoise silver metal White Elephant \"ADAPTOGAP\" tin; dark VitaminD3K2 bottle white botanical \"White Elephant\" label, green/gold D3K2 design. Exact principal typography and material unchanged. Do not redraw packaging, change cap/material, resize individual items, add generic jars, or invent products. \nPreserve the existing oak table, linen, daylight, curtain, leftside plant, camera framing, colors, photo quality. Three actual products only. No text/UI overlay/watermark. Output portrait 1024×1536.",
+    "phone_clearance_reference": "Previous selected hero-products-portrait.webp, generated basename exec-f5b4919a-b96d-48a2-9aa4-79ecc91161ac.png",
+    "selected_generated_basename": "exec-42eff033-2ef0-46e3-81f3-ce9fa08ac5c9.png",
+    "outputs": [
+      "dist/assets/seed/hero-products-portrait.png",
+      "dist/assets/seed/hero-products-portrait.webp"
+    ],
+    "inspection": "Final third generation visually inspected: exactly three real packages with principal labels and materials preserved. Entire cluster moved left/down to around x23–77%, y62.3–90.4%. This clears phone CTA and leaves more than upper62% free from product packages."
+  }
+}
