@@ -113,5 +113,6 @@
     <symbol id="star" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
       <path d="m12 3.1 2.8 5.7 6.3.9-4.6 4.5 1.1 6.3-5.6-3-5.6 3 1.1-6.3L2.9 9.7l6.3-.9L12 3.1Z"/>
     </symbol>
+    <symbol id="gallery" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M6.5 3.5h11a2 2 0 0 1 2 2v13a2 2 0 0 1-2 2h-11a2 2 0 0 1-2-2v-13a2 2 0 0 1 2-2ZM4.5 15.5h15M9 18h6"/></symbol>
   </defs>
 </svg>

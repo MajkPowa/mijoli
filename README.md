@@ -24,7 +24,7 @@ The repository contains the website, its image assets and publishing configurati
 
 Version 1.1 adds a portrait hero, native swipeable product gallery with a grid alternative, thumb-friendly bottom navigation, category/availability/sort filters, and full-height product details with a fixed purchase bar. Modal navigation preserves search context and keyboard focus. Inputs use 16px text, controls account for safe areas, and motion respects reduced-motion preferences.
 
-All 35 SVG icons are original Mijoli artwork. The shared sprite is `dist/icons.svg`; the [icon gallery](https://majkpowa.github.io/mijoli/iconography.html) shows every symbol at multiple sizes.
+All 36 SVG icons are original Mijoli artwork. The shared sprite is `dist/icons.svg`; the [icon gallery](https://majkpowa.github.io/mijoli/iconography.html) shows every symbol at multiple sizes.
 
 ## Version 2.0 — October 2026
 
@@ -49,3 +49,12 @@ The [photography review page](https://majkpowa.github.io/mijoli/product-photos.h
 The desktop and mobile hero now show actual in-stock products from the catalog: Imunita (129), ADAPTOGAP (48) and Vitamin D3 K2 (81). All three ImageGen edits use the corresponding product photographs as packaging references. Separate landscape, tablet and portrait compositions keep the text area clear and preserve labels and complete packages across phone, tablet and desktop layouts.
 
 Final assets: `dist/assets/seed/hero-products-wide.{png,webp}`, `dist/assets/seed/hero-products-tablet.{png,webp}` and `dist/assets/seed/hero-products-portrait.{png,webp}`. Exact prompts and reference paths: `image-prompts-hero-products.json`.
+
+
+## Version 2.2 — UI and UX foundations
+
+The catalog is now before the longer brand story, with quick category entrances and a direct shopping CTA. Search lives in the catalog, matches multiword queries without diacritics and shares its state through URL parameters. The search overlay offers the complete result set. Category, query, availability and sort have individually removable chips; filters and stock are accessible on desktop and mobile. All four catalog categories are visible.
+
+The interface uses shared semantic color, type, spacing, control and radius tokens in `dist/experience.css`. Secondary text and control outlines have stronger contrast. Shopping metadata is at least 12px, long product information uses 16px, quantity controls stay 44px wide and keyboard focus survives updates. Mobile starts in a two-column grid, with a large-card option; tablet uses two columns. The new gallery symbol extends the original set to 36 SVG icons.
+
+The separate [design and UX manual](https://majkpowa.github.io/mijoli/design-system.html) documents branding, colors, typography, iconography, spacing, components/states, IA, user flows, three hypothetical personas, six user stories with acceptance criteria and a five-participant research plan. No customer interviews or moderated user tests have taken place. Technical checks are recorded in `QA-2.2.0.md`.
