@@ -2,7 +2,9 @@
 
 Animated, responsive Czech storefront with 46 products, catalog search, filters, product details, favorites, a persistent cart, and a three-step demo checkout.
 
-**Website:** https://majkpowa.github.io/mijoli/
+**Primary website:** https://www.mijoli.com/
+
+The custom domain was connected and verified over HTTPS on 2 November 2026. Both `mijoli.com` and `www.mijoli.com` have a valid certificate, and HTTPS enforcement is enabled. The previous address, `https://majkpowa.github.io/mijoli/`, redirects to the custom domain while it is configured and is not an independent fallback. Configuration, validation and rollback are recorded in [the deployment note](docs/custom-domain-deployment.md).
 
 This is a design preview. Checkout does not submit orders or process payments. Product prices and availability are a snapshot of the source catalog, not a live inventory feed.
 
@@ -24,7 +26,7 @@ The repository contains the website, its image assets and publishing configurati
 
 Version 1.1 adds a portrait hero, native swipeable product gallery with a grid alternative, thumb-friendly bottom navigation, category/availability/sort filters, and full-height product details with a fixed purchase bar. Modal navigation preserves search context and keyboard focus. Inputs use 16px text, controls account for safe areas, and motion respects reduced-motion preferences.
 
-All 36 SVG icons are original Mijoli artwork. The shared sprite is `dist/icons.svg`; the [icon gallery](https://majkpowa.github.io/mijoli/iconography.html) shows every symbol at multiple sizes.
+All 36 SVG icons are original Mijoli artwork. The shared sprite is `dist/icons.svg`; the [icon gallery](https://www.mijoli.com/iconography.html) shows every symbol at multiple sizes.
 
 ## Version 2.0 — October 2026
 
@@ -42,7 +44,7 @@ PNG masters and optimized WebP files live in `dist/assets/products-editorial/`. 
 
 The complete prompt set and image lineage are recorded in `image-prompts-products.json`. Product identity, label names and unusual package forms were reviewed against the inputs. Prices, stock and checkout behavior are unchanged.
 
-The [photography review page](https://majkpowa.github.io/mijoli/product-photos.html) shows all 48 images, offers PNG downloads and switches between the new photographs and source images. Every output is 1254 × 1254; the optimized WebP collection totals approximately 5.24 MB.
+The [photography review page](https://www.mijoli.com/product-photos.html) shows all 48 images, offers PNG downloads and switches between the new photographs and source images. Every output is 1254 × 1254; the optimized WebP collection totals approximately 5.24 MB.
 
 ## Version 2.1.1 — real products in the hero
 
@@ -57,4 +59,4 @@ The catalog is now before the longer brand story, with quick category entrances 
 
 The interface uses shared semantic color, type, spacing, control and radius tokens in `dist/experience.css`. Secondary text and control outlines have stronger contrast. Shopping metadata is at least 12px, long product information uses 16px, quantity controls stay 44px wide and keyboard focus survives updates. Mobile starts in a two-column grid, with a large-card option; tablet uses two columns. The new gallery symbol extends the original set to 36 SVG icons.
 
-The separate [design and UX manual](https://majkpowa.github.io/mijoli/design-system.html) documents branding, colors, typography, iconography, spacing, components/states, IA, user flows, three hypothetical personas, six user stories with acceptance criteria and a five-participant research plan. No customer interviews or moderated user tests have taken place. Technical checks are recorded in `QA-2.2.0.md`.
+The separate [design and UX manual](https://www.mijoli.com/design-system.html) documents branding, colors, typography, iconography, spacing, components/states, IA, user flows, three hypothetical personas, six user stories with acceptance criteria and a five-participant research plan. No customer interviews or moderated user tests have taken place. Technical checks are recorded in `QA-2.2.0.md`.
